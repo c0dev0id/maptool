@@ -16,8 +16,10 @@ android {
         applicationId = "de.codevoid.maptool"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1
-        versionName = "0.0.1"
+        // The release workflow derives both from the release tag; the
+        // defaults are what a local or debug build gets.
+        versionCode = providers.gradleProperty("versionCode").orNull?.toInt() ?: 1
+        versionName = providers.gradleProperty("versionName").orNull ?: "0.0.1"
     }
 
     signingConfigs {
