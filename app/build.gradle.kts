@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "de.codevoid.keytester"
+    namespace = "de.codevoid.maptool"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "de.codevoid.keytester"
+        applicationId = "de.codevoid.maptool"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
