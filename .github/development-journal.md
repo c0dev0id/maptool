@@ -40,6 +40,13 @@ Without this, every release APK would report the version checked into
 As separate jobs they duplicated the Gradle distribution download and raced
 each other for identical cache keys (`ReserveCacheError` in the logs).
 
+**Local verification is possible after installing the SDK by hand.**
+Gradle, Google Maven and `dl.google.com/android/repository` are all reachable
+from the dev container; only a preinstalled SDK is missing. Installing
+`cmdline-tools` plus `platforms;android-36` and `build-tools;36.0.0` into a
+scratch `ANDROID_HOME` makes `./gradlew lint assembleDebug` work locally, which
+caught the theme resource error before it reached CI.
+
 **Signing lives only in the release workflow.**
 The build workflow previously had a job that signed the *debug* APK with the
 release keystore, ran without `actions/checkout`, and failed whenever the

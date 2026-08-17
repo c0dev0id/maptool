@@ -14,8 +14,11 @@ screen. Map, routing, and data features are not designed yet.
 
 ## Build & CI
 
-All builds run in CI/CD — do not attempt local builds (no Android SDK in the
-dev container, and AGP is inaccessible due to firewall).
+Builds normally run in CI/CD. A local build is nevertheless possible and worth
+doing before pushing: Gradle, Google Maven and `dl.google.com` are reachable —
+only a preinstalled SDK is missing. Install `cmdline-tools` plus
+`platforms;android-36` and `build-tools;36.0.0` into a scratch `ANDROID_HOME`,
+then run `./gradlew lint assembleDebug`.
 
 | CI task | Trigger |
 |---|---|

@@ -28,6 +28,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   the Compose BOM does not manage that group, so the version is now explicit
 - `assembleRelease` produced an unsigned APK because no signing config was
   wired up, which made the release workflow fail by design
+- Resource linking failed on `android:Theme.Material.Light.NoTitleBar`, which
+  does not exist; the Material family spells it `NoActionBar`
 
 ### Removed
 - Template setup workflow, which had already done its one-time substitution
