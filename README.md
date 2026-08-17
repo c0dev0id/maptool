@@ -1,14 +1,26 @@
-# Android Key Tester
+# MapTool
 
-This is an android app that observes key input from all sources except touch.
+A mapping tool for Android with offline maps, routing, and track and
+waypoint management.
 
-While the app is running, it will show:
-- key (key code and key symbol)
-- key event (key down, key up)
-- device name
-- class
-- source
+## Planned scope
 
-As additional source, observe the com.thorkracing.wireddevices.keypress broadcast intent.
+- Offline vector maps rendered with [Mapsforge](https://github.com/mapsforge/mapsforge)
+- Offline routing with [BRouter](https://github.com/abrensch/brouter)
+- Routes: plan, import, export, navigate
+- Tracks: record, import, export
+- Waypoints: create, edit, organise
 
+## Status
 
+Boilerplate only. The app currently builds and launches a placeholder
+Compose screen; no map, routing, or data handling is implemented yet.
+
+## Build
+
+Builds run in CI, not locally:
+
+| What | Trigger |
+|---|---|
+| Lint + debug APK | Push to `main`, PR labeled `run-build`, or manual run |
+| Signed release APK + draft GitHub release | Manual run of the Release workflow |
