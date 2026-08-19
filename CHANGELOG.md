@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- `CLAUDE.md`: added concrete build/SDK-bootstrap commands, noted the absence
+  of any test source set, documented the AGP 9 plugin setup, the centralised
+  repository mode and the platform theme, and corrected the description of how
+  the release workflow produces the version and the tag
+
 ## [0.0.1] - 2026-08-17
 
 ### Added
