@@ -43,7 +43,12 @@ the release build stays unsigned.
 ## Rules
 
 - Always commit every logical step. Do not batch unrelated changes into one commit.
-- Always rebase the working branch onto `main` at the end of a task.
+- The repo uses **squash merges**, and the working branch stays open across
+  tasks. After a PR is squashed into `main`, do not replay the branch
+  commits — they are all already in the squash commit. Instead: fetch
+  `main`, check that `git diff origin/main HEAD` is empty, then
+  `git reset --hard origin/main` and push with `--force-with-lease`.
+  If that diff is *not* empty, stop and ask rather than resetting.
 - Maintain `CHANGELOG.md` (keep-a-changelog format) after each task.
 - Maintain `.github/development-journal.md` with stack info, key decisions, and core features.
 
