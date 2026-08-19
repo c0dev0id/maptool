@@ -4,28 +4,41 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Android app that captures and displays key events from all input sources except touch. Also listens to the `com.thorkracing.wireddevices.keypress` broadcast intent. Displays per event: key code, key symbol, event type (down/up), device name, class, and source.
+**MapTool** — an Android mapping tool. Planned around Mapsforge for
+offline vector map rendering and BRouter for offline routing, with
+support for routes, tracks, and waypoints.
 
-**Status:** Template placeholders (`maptool`) have not been replaced yet. Before any feature work, rename the package, app label, and file paths to the real app name.
+**Status:** Boilerplate only. The template rename is done (package
+`de.codevoid.maptool`); the app builds and shows a placeholder Compose
+screen. Map, routing, and data features are not designed yet.
 
 ## Build & CI
 
-All builds run in CI/CD — do not attempt local builds (AGP is inaccessible due to firewall).
+Builds normally run in CI/CD. A local build is nevertheless possible and worth
+doing before pushing: Gradle, Google Maven and `dl.google.com` are reachable —
+only a preinstalled SDK is missing. Install `cmdline-tools` plus
+`platforms;android-36` and `build-tools;36.0.0` into a scratch `ANDROID_HOME`,
+then run `./gradlew lint assembleDebug`.
 
 | CI task | Trigger |
 |---|---|
-| Lint + debug APK | Push to `main`, or PR labeled `run-build` |
+| Lint + debug APK | Push to `main`, PR labeled `run-build`, or `workflow_dispatch` |
 | Signed release APK + GitHub draft release | Manual `workflow_dispatch` |
 
 Signing secrets required: `SIGNING_KEYSTORE_BASE64`, `SIGNING_KEYSTORE_PASSWORD`, `SIGNING_KEY_ALIAS`, `SIGNING_KEY_PASSWORD`.
+
+The release workflow derives `versionName`/`versionCode` from the release tag
+and passes them to Gradle as `-PversionName` / `-PversionCode`. Release signing
+is configured from the `SIGNING_*` environment variables; when they are absent
+the release build stays unsigned.
 
 ## Architecture
 
 - **Single Activity** (`MainActivity`) — no fragments, no navigation component.
 - **Jetpack Compose** UI only — no XML layouts.
 - **minSdk 26** (Android 8.0) — no need for pre-Oreo compatibility paths.
-- Key input capture: override `dispatchKeyEvent()` in `MainActivity`; collect events into Compose `State`.
-- Broadcast receiver for `com.thorkracing.wireddevices.keypress` must be registered dynamically (not in the manifest) and unregistered in `onDestroy`.
+- The Compose BOM only manages the `androidx.compose.*` groups. Any other
+  AndroidX dependency (e.g. `activity-compose`) needs an explicit version.
 
 ## Rules
 

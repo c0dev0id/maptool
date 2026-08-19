@@ -6,32 +6,58 @@
 - **UI:** Jetpack Compose (Material3), Compose BOM 2026.02.01
 - **Min SDK:** 26 (Android 8.0)
 - **Target/Compile SDK:** 36
-- **Build:** CI-only via GitHub Actions (AGP 9.1.0, Kotlin Compose plugin 2.3.10)
+- **Build:** CI-only via GitHub Actions (Gradle 9.4.0, AGP 9.1.0, Kotlin
+  Compose plugin 2.3.10, JDK 17)
+- **Planned:** Mapsforge (offline vector maps), BRouter (offline routing)
 
 ## Key Decisions
 
-**Broadcast receiver registered dynamically (onResume/onPause), not in the manifest.**
-Android 8.0+ restricts implicit broadcast receivers declared in the manifest for custom actions. Dynamic registration is required for `com.thorkracing.wireddevices.keypress`.
+**AGP 9's built-in Kotlin support is used; no separate `kotlin-android` plugin.**
+AGP 9.1 registers the `compileDebugKotlin` task and the `kotlin { }` extension
+on its own, so only `com.android.application` and the Compose compiler plugin
+are applied.
 
-**`dispatchKeyEvent` used for hardware key capture, not `onKeyDown`/`onKeyUp`.**
-`dispatchKeyEvent` fires for every action including ACTION_MULTIPLE and unknown action codes, which is necessary for a diagnostic tool that must log faulty/incomplete signals. `onKeyDown`/`onKeyUp` only cover the common cases.
+**Non-Compose AndroidX dependencies carry explicit versions.**
+`androidx.compose:compose-bom` only constrains the `androidx.compose.*` groups.
+`androidx.activity:activity-compose` was declared without a version and
+resolution failed with `Could not find androidx.activity:activity-compose:`;
+it is now pinned. Any future AndroidX dependency outside `androidx.compose.*`
+needs the same treatment.
 
-**Hardware press duration from `KeyEvent.downTime` / `eventTime`, not a tracking map.**
-`KeyEvent` carries both timestamps natively. A tracking map is only needed for broadcast events where we receive separate press/release intents.
+**Release signing comes from environment variables, not a properties file.**
+`SIGNING_KEYSTORE_PATH`, `SIGNING_KEYSTORE_PASSWORD`, `SIGNING_KEY_ALIAS` and
+`SIGNING_KEY_PASSWORD` are read in `app/build.gradle.kts`. The keystore never
+enters the repository, and when the variables are absent the signing config is
+simply not created, so debug builds and local release builds still work.
 
-**Unrecognised broadcast payloads logged with raw extras.**
-The receiver logs any broadcast with the keypress action even if it lacks the expected `key_press`/`key_release` keys, displaying all extras as-is. This ensures faulty or extended payloads are never silently dropped.
+**Version metadata is a Gradle property, sourced from the release tag.**
+The release workflow resolves the tag, derives `versionCode` as
+`major * 10000 + minor * 100 + patch`, and passes both via `-P` flags.
+Without this, every release APK would report the version checked into
+`app/build.gradle.kts`.
 
-**`LazyColumn(reverseLayout = true)` with append-only list.**
-Prepending to a `SnapshotStateList` is O(n). Appending is O(1). Reversing the layout gives newest-first display without any list mutation cost.
+**Lint and the debug build share one CI job.**
+As separate jobs they duplicated the Gradle distribution download and raced
+each other for identical cache keys (`ReserveCacheError` in the logs).
 
-**Log cap at 500 entries.**
-Prevents unbounded memory growth during long test sessions. Oldest entries are dropped first.
+**Local verification is possible after installing the SDK by hand.**
+Gradle, Google Maven and `dl.google.com/android/repository` are all reachable
+from the dev container; only a preinstalled SDK is missing. Installing
+`cmdline-tools` plus `platforms;android-36` and `build-tools;36.0.0` into a
+scratch `ANDROID_HOME` makes `./gradlew lint assembleDebug` work locally, which
+caught the theme resource error before it reached CI.
+
+**Signing lives only in the release workflow.**
+The build workflow previously had a job that signed the *debug* APK with the
+release keystore, ran without `actions/checkout`, and failed whenever the
+signing secrets were unset — which is every ordinary build.
 
 ## Core Features
 
-- Log all key events from hardware input devices (keycode, symbol, action, device name, source class, input source, press duration)
-- Log `com.thorkracing.wireddevices.keypress` broadcast events from andRemote2 (key_press / key_release / deviceName extras)
-- Log unrecognised broadcast payloads with raw extras for fault diagnosis
-- Clear log
-- Share/export log as plain text
+None implemented yet. Planned:
+
+- Offline vector map display (Mapsforge)
+- Offline routing (BRouter)
+- Route planning, import/export, navigation
+- Track recording, import/export
+- Waypoint creation, editing, organisation

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "keytester"
+rootProject.name = "maptool"
 include(":app")
