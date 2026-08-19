@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- `tools/generate-map-catalog.py`, which crawls download.mapsforge.org and
+  emits the bundled region catalog
+- `app/src/main/assets/map-catalog.json` — 419 downloadable regions with
+  approximate sizes and upstream modification dates
+
 ## [0.0.1] - 2026-08-17
 
 ### Added

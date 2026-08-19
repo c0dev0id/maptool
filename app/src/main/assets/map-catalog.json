@@ -1,0 +1,3359 @@
+{
+ "source": "https://download.mapsforge.org/maps/v5",
+ "generatedAt": "2026-08-19T13:57:47+00:00",
+ "regionCount": 419,
+ "regions": [
+  {
+   "id": "africa/algeria",
+   "name": "Algeria",
+   "path": "africa/algeria.map",
+   "parent": "africa",
+   "sizeBytes": 307232768,
+   "updated": "2026-07-21T17:07:00+00:00"
+  },
+  {
+   "id": "africa/angola",
+   "name": "Angola",
+   "path": "africa/angola.map",
+   "parent": "africa",
+   "sizeBytes": 120586240,
+   "updated": "2026-07-21T18:15:00+00:00"
+  },
+  {
+   "id": "africa/benin",
+   "name": "Benin",
+   "path": "africa/benin.map",
+   "parent": "africa",
+   "sizeBytes": 50331648,
+   "updated": "2026-07-21T18:22:00+00:00"
+  },
+  {
+   "id": "africa/botswana",
+   "name": "Botswana",
+   "path": "africa/botswana.map",
+   "parent": "africa",
+   "sizeBytes": 99614720,
+   "updated": "2026-07-21T19:39:00+00:00"
+  },
+  {
+   "id": "africa/burkina-faso",
+   "name": "Burkina-Faso",
+   "path": "africa/burkina-faso.map",
+   "parent": "africa",
+   "sizeBytes": 99614720,
+   "updated": "2026-05-10T07:16:00+00:00"
+  },
+  {
+   "id": "africa/burundi",
+   "name": "Burundi",
+   "path": "africa/burundi.map",
+   "parent": "africa",
+   "sizeBytes": 40894464,
+   "updated": "2026-05-10T07:51:00+00:00"
+  },
+  {
+   "id": "africa/cameroon",
+   "name": "Cameroon",
+   "path": "africa/cameroon.map",
+   "parent": "africa",
+   "sizeBytes": 273678336,
+   "updated": "2026-05-10T12:02:00+00:00"
+  },
+  {
+   "id": "africa/canary-islands",
+   "name": "Canary-Islands",
+   "path": "africa/canary-islands.map",
+   "parent": "africa",
+   "sizeBytes": 50331648,
+   "updated": "2026-05-10T12:28:00+00:00"
+  },
+  {
+   "id": "africa/cape-verde",
+   "name": "Cape-Verde",
+   "path": "africa/cape-verde.map",
+   "parent": "africa",
+   "sizeBytes": 11534336,
+   "updated": "2026-05-10T12:34:00+00:00"
+  },
+  {
+   "id": "africa/central-african-republic",
+   "name": "Central-African-Republic",
+   "path": "africa/central-african-republic.map",
+   "parent": "africa",
+   "sizeBytes": 161480704,
+   "updated": "2026-05-10T14:55:00+00:00"
+  },
+  {
+   "id": "africa/chad",
+   "name": "Chad",
+   "path": "africa/chad.map",
+   "parent": "africa",
+   "sizeBytes": 163577856,
+   "updated": "2026-05-10T16:52:00+00:00"
+  },
+  {
+   "id": "africa/comores",
+   "name": "Comores",
+   "path": "africa/comores.map",
+   "parent": "africa",
+   "sizeBytes": 4718592,
+   "updated": "2026-05-10T17:03:00+00:00"
+  },
+  {
+   "id": "africa/congo-brazzaville",
+   "name": "Congo-Brazzaville",
+   "path": "africa/congo-brazzaville.map",
+   "parent": "africa",
+   "sizeBytes": 49283072,
+   "updated": "2026-05-10T17:46:00+00:00"
+  },
+  {
+   "id": "africa/congo-democratic-republic",
+   "name": "Congo-Democratic-Republic",
+   "path": "africa/congo-democratic-republic.map",
+   "parent": "africa",
+   "sizeBytes": 504365056,
+   "updated": "2026-05-10T20:32:00+00:00"
+  },
+  {
+   "id": "africa/djibouti",
+   "name": "Djibouti",
+   "path": "africa/djibouti.map",
+   "parent": "africa",
+   "sizeBytes": 7654604,
+   "updated": "2026-05-10T20:48:00+00:00"
+  },
+  {
+   "id": "africa/egypt",
+   "name": "Egypt",
+   "path": "africa/egypt.map",
+   "parent": "africa",
+   "sizeBytes": 181403648,
+   "updated": "2026-05-13T07:59:00+00:00"
+  },
+  {
+   "id": "africa/equatorial-guinea",
+   "name": "Equatorial-Guinea",
+   "path": "africa/equatorial-guinea.map",
+   "parent": "africa",
+   "sizeBytes": 13631488,
+   "updated": "2026-05-13T08:07:00+00:00"
+  },
+  {
+   "id": "africa/eritrea",
+   "name": "Eritrea",
+   "path": "africa/eritrea.map",
+   "parent": "africa",
+   "sizeBytes": 35651584,
+   "updated": "2026-05-13T08:14:00+00:00"
+  },
+  {
+   "id": "africa/ethiopia",
+   "name": "Ethiopia",
+   "path": "africa/ethiopia.map",
+   "parent": "africa",
+   "sizeBytes": 150994944,
+   "updated": "2026-05-13T08:46:00+00:00"
+  },
+  {
+   "id": "africa/gabon",
+   "name": "Gabon",
+   "path": "africa/gabon.map",
+   "parent": "africa",
+   "sizeBytes": 41943040,
+   "updated": "2026-05-13T10:50:00+00:00"
+  },
+  {
+   "id": "africa/ghana",
+   "name": "Ghana",
+   "path": "africa/ghana.map",
+   "parent": "africa",
+   "sizeBytes": 109051904,
+   "updated": "2026-05-13T11:20:00+00:00"
+  },
+  {
+   "id": "africa/guinea",
+   "name": "Guinea",
+   "path": "africa/guinea.map",
+   "parent": "africa",
+   "sizeBytes": 114294784,
+   "updated": "2026-05-13T11:40:00+00:00"
+  },
+  {
+   "id": "africa/guinea-bissau",
+   "name": "Guinea-Bissau",
+   "path": "africa/guinea-bissau.map",
+   "parent": "africa",
+   "sizeBytes": 12582912,
+   "updated": "2026-05-13T11:46:00+00:00"
+  },
+  {
+   "id": "africa/ivory-coast",
+   "name": "Ivory-Coast",
+   "path": "africa/ivory-coast.map",
+   "parent": "africa",
+   "sizeBytes": 93323264,
+   "updated": "2026-05-13T12:01:00+00:00"
+  },
+  {
+   "id": "africa/kenya",
+   "name": "Kenya",
+   "path": "africa/kenya.map",
+   "parent": "africa",
+   "sizeBytes": 331350016,
+   "updated": "2026-05-13T14:14:00+00:00"
+  },
+  {
+   "id": "africa/lesotho",
+   "name": "Lesotho",
+   "path": "africa/lesotho.map",
+   "parent": "africa",
+   "sizeBytes": 93323264,
+   "updated": "2026-05-13T14:40:00+00:00"
+  },
+  {
+   "id": "africa/liberia",
+   "name": "Liberia",
+   "path": "africa/liberia.map",
+   "parent": "africa",
+   "sizeBytes": 42991616,
+   "updated": "2026-05-13T14:49:00+00:00"
+  },
+  {
+   "id": "africa/libya",
+   "name": "Libya",
+   "path": "africa/libya.map",
+   "parent": "africa",
+   "sizeBytes": 119537664,
+   "updated": "2026-05-13T15:08:00+00:00"
+  },
+  {
+   "id": "africa/madagascar",
+   "name": "Madagascar",
+   "path": "africa/madagascar.map",
+   "parent": "africa",
+   "sizeBytes": 381681664,
+   "updated": "2026-05-14T00:17:00+00:00"
+  },
+  {
+   "id": "africa/malawi",
+   "name": "Malawi",
+   "path": "africa/malawi.map",
+   "parent": "africa",
+   "sizeBytes": 144703488,
+   "updated": "2026-05-14T01:01:00+00:00"
+  },
+  {
+   "id": "africa/mali",
+   "name": "Mali",
+   "path": "africa/mali.map",
+   "parent": "africa",
+   "sizeBytes": 214958080,
+   "updated": "2026-05-14T01:37:00+00:00"
+  },
+  {
+   "id": "africa/mauritania",
+   "name": "Mauritania",
+   "path": "africa/mauritania.map",
+   "parent": "africa",
+   "sizeBytes": 58720256,
+   "updated": "2026-05-14T01:50:00+00:00"
+  },
+  {
+   "id": "africa/mauritius",
+   "name": "Mauritius",
+   "path": "africa/mauritius.map",
+   "parent": "africa",
+   "sizeBytes": 26214400,
+   "updated": "2026-05-14T01:54:00+00:00"
+  },
+  {
+   "id": "africa/morocco",
+   "name": "Morocco",
+   "path": "africa/morocco.map",
+   "parent": "africa",
+   "sizeBytes": 222298112,
+   "updated": "2026-05-14T02:25:00+00:00"
+  },
+  {
+   "id": "africa/mozambique",
+   "name": "Mozambique",
+   "path": "africa/mozambique.map",
+   "parent": "africa",
+   "sizeBytes": 278921216,
+   "updated": "2026-05-14T04:00:00+00:00"
+  },
+  {
+   "id": "africa/namibia",
+   "name": "Namibia",
+   "path": "africa/namibia.map",
+   "parent": "africa",
+   "sizeBytes": 87031808,
+   "updated": "2026-05-14T04:26:00+00:00"
+  },
+  {
+   "id": "africa/niger",
+   "name": "Niger",
+   "path": "africa/niger.map",
+   "parent": "africa",
+   "sizeBytes": 113246208,
+   "updated": "2026-05-14T04:42:00+00:00"
+  },
+  {
+   "id": "africa/nigeria",
+   "name": "Nigeria",
+   "path": "africa/nigeria.map",
+   "parent": "africa",
+   "sizeBytes": 764411904,
+   "updated": "2026-05-14T08:28:00+00:00"
+  },
+  {
+   "id": "africa/rwanda",
+   "name": "Rwanda",
+   "path": "africa/rwanda.map",
+   "parent": "africa",
+   "sizeBytes": 62914560,
+   "updated": "2026-05-14T09:00:00+00:00"
+  },
+  {
+   "id": "africa/saint-helena-ascension-and-tristan-da-cunha",
+   "name": "Saint-Helena-Ascension-And-Tristan-Da-Cunha",
+   "path": "africa/saint-helena-ascension-and-tristan-da-cunha.map",
+   "parent": "africa",
+   "sizeBytes": 68157440,
+   "updated": "2026-05-14T09:08:00+00:00"
+  },
+  {
+   "id": "africa/sao-tome-and-principe",
+   "name": "Sao-Tome-And-Principe",
+   "path": "africa/sao-tome-and-principe.map",
+   "parent": "africa",
+   "sizeBytes": 2621440,
+   "updated": "2026-05-14T09:10:00+00:00"
+  },
+  {
+   "id": "africa/senegal-and-gambia",
+   "name": "Senegal-And-Gambia",
+   "path": "africa/senegal-and-gambia.map",
+   "parent": "africa",
+   "sizeBytes": 105906176,
+   "updated": "2026-05-14T09:27:00+00:00"
+  },
+  {
+   "id": "africa/seychelles",
+   "name": "Seychelles",
+   "path": "africa/seychelles.map",
+   "parent": "africa",
+   "sizeBytes": 16777216,
+   "updated": "2026-05-14T09:32:00+00:00"
+  },
+  {
+   "id": "africa/sierra-leone",
+   "name": "Sierra-Leone",
+   "path": "africa/sierra-leone.map",
+   "parent": "africa",
+   "sizeBytes": 38797312,
+   "updated": "2026-05-14T09:39:00+00:00"
+  },
+  {
+   "id": "africa/somalia",
+   "name": "Somalia",
+   "path": "africa/somalia.map",
+   "parent": "africa",
+   "sizeBytes": 197132288,
+   "updated": "2026-05-14T10:17:00+00:00"
+  },
+  {
+   "id": "africa/south-africa-and-lesotho",
+   "name": "South-Africa-And-Lesotho",
+   "path": "africa/south-africa-and-lesotho.map",
+   "parent": "africa",
+   "sizeBytes": 577765376,
+   "updated": "2026-07-15T13:14:00+00:00"
+  },
+  {
+   "id": "africa/south-sudan",
+   "name": "South-Sudan",
+   "path": "africa/south-sudan.map",
+   "parent": "africa",
+   "sizeBytes": 164626432,
+   "updated": "2026-07-15T14:15:00+00:00"
+  },
+  {
+   "id": "africa/sudan",
+   "name": "Sudan",
+   "path": "africa/sudan.map",
+   "parent": "africa",
+   "sizeBytes": 266338304,
+   "updated": "2026-07-16T05:27:00+00:00"
+  },
+  {
+   "id": "africa/swaziland",
+   "name": "Swaziland",
+   "path": "africa/swaziland.map",
+   "parent": "africa",
+   "sizeBytes": 28311552,
+   "updated": "2026-07-16T05:37:00+00:00"
+  },
+  {
+   "id": "africa/tanzania",
+   "name": "Tanzania",
+   "path": "africa/tanzania.map",
+   "parent": "africa",
+   "sizeBytes": 638582784,
+   "updated": "2026-07-16T13:41:00+00:00"
+  },
+  {
+   "id": "africa/togo",
+   "name": "Togo",
+   "path": "africa/togo.map",
+   "parent": "africa",
+   "sizeBytes": 61865984,
+   "updated": "2026-07-16T14:06:00+00:00"
+  },
+  {
+   "id": "africa/tunisia",
+   "name": "Tunisia",
+   "path": "africa/tunisia.map",
+   "parent": "africa",
+   "sizeBytes": 69206016,
+   "updated": "2026-07-16T14:23:00+00:00"
+  },
+  {
+   "id": "africa/uganda",
+   "name": "Uganda",
+   "path": "africa/uganda.map",
+   "parent": "africa",
+   "sizeBytes": 385875968,
+   "updated": "2026-07-16T22:18:00+00:00"
+  },
+  {
+   "id": "africa/zambia",
+   "name": "Zambia",
+   "path": "africa/zambia.map",
+   "parent": "africa",
+   "sizeBytes": 258998272,
+   "updated": "2026-07-17T00:09:00+00:00"
+  },
+  {
+   "id": "africa/zimbabwe",
+   "name": "Zimbabwe",
+   "path": "africa/zimbabwe.map",
+   "parent": "africa",
+   "sizeBytes": 180355072,
+   "updated": "2026-07-17T01:08:00+00:00"
+  },
+  {
+   "id": "asia/afghanistan",
+   "name": "Afghanistan",
+   "path": "asia/afghanistan.map",
+   "parent": "asia",
+   "sizeBytes": 140509184,
+   "updated": "2026-02-25T21:49:00+00:00"
+  },
+  {
+   "id": "asia/armenia",
+   "name": "Armenia",
+   "path": "asia/armenia.map",
+   "parent": "asia",
+   "sizeBytes": 46137344,
+   "updated": "2026-02-25T22:05:00+00:00"
+  },
+  {
+   "id": "asia/azerbaijan",
+   "name": "Azerbaijan",
+   "path": "asia/azerbaijan.map",
+   "parent": "asia",
+   "sizeBytes": 55574528,
+   "updated": "2026-02-26T02:47:00+00:00"
+  },
+  {
+   "id": "asia/bangladesh",
+   "name": "Bangladesh",
+   "path": "asia/bangladesh.map",
+   "parent": "asia",
+   "sizeBytes": 396361728,
+   "updated": "2026-02-26T05:20:00+00:00"
+  },
+  {
+   "id": "asia/bhutan",
+   "name": "Bhutan",
+   "path": "asia/bhutan.map",
+   "parent": "asia",
+   "sizeBytes": 24117248,
+   "updated": "2026-02-26T05:35:00+00:00"
+  },
+  {
+   "id": "asia/cambodia",
+   "name": "Cambodia",
+   "path": "asia/cambodia.map",
+   "parent": "asia",
+   "sizeBytes": 44040192,
+   "updated": "2026-02-26T05:44:00+00:00"
+  },
+  {
+   "id": "asia/china/anhui",
+   "name": "Anhui",
+   "path": "asia/china/anhui.map",
+   "parent": "asia/china",
+   "sizeBytes": 54525952,
+   "updated": "2026-08-12T13:30:00+00:00"
+  },
+  {
+   "id": "asia/china/beijing",
+   "name": "Beijing",
+   "path": "asia/china/beijing.map",
+   "parent": "asia/china",
+   "sizeBytes": 34603008,
+   "updated": "2026-08-12T13:45:00+00:00"
+  },
+  {
+   "id": "asia/china/chongqing",
+   "name": "Chongqing",
+   "path": "asia/china/chongqing.map",
+   "parent": "asia/china",
+   "sizeBytes": 36700160,
+   "updated": "2026-08-12T14:07:00+00:00"
+  },
+  {
+   "id": "asia/china/fujian",
+   "name": "Fujian",
+   "path": "asia/china/fujian.map",
+   "parent": "asia/china",
+   "sizeBytes": 49283072,
+   "updated": "2026-08-12T14:47:00+00:00"
+  },
+  {
+   "id": "asia/china/gansu",
+   "name": "Gansu",
+   "path": "asia/china/gansu.map",
+   "parent": "asia/china",
+   "sizeBytes": 102760448,
+   "updated": "2026-08-12T15:32:00+00:00"
+  },
+  {
+   "id": "asia/china/guangdong",
+   "name": "Guangdong",
+   "path": "asia/china/guangdong.map",
+   "parent": "asia/china",
+   "sizeBytes": 171966464,
+   "updated": "2026-08-12T18:49:00+00:00"
+  },
+  {
+   "id": "asia/china/guangxi",
+   "name": "Guangxi",
+   "path": "asia/china/guangxi.map",
+   "parent": "asia/china",
+   "sizeBytes": 66060288,
+   "updated": "2026-08-12T19:23:00+00:00"
+  },
+  {
+   "id": "asia/china/guizhou",
+   "name": "Guizhou",
+   "path": "asia/china/guizhou.map",
+   "parent": "asia/china",
+   "sizeBytes": 38797312,
+   "updated": "2026-08-12T19:36:00+00:00"
+  },
+  {
+   "id": "asia/china/hainan",
+   "name": "Hainan",
+   "path": "asia/china/hainan.map",
+   "parent": "asia/china",
+   "sizeBytes": 19922944,
+   "updated": "2026-08-12T20:09:00+00:00"
+  },
+  {
+   "id": "asia/china/hebei",
+   "name": "Hebei",
+   "path": "asia/china/hebei.map",
+   "parent": "asia/china",
+   "sizeBytes": 126877696,
+   "updated": "2026-03-13T07:45:00+00:00"
+  },
+  {
+   "id": "asia/china/heilongjiang",
+   "name": "Heilongjiang",
+   "path": "asia/china/heilongjiang.map",
+   "parent": "asia/china",
+   "sizeBytes": 84934656,
+   "updated": "2026-08-12T23:37:00+00:00"
+  },
+  {
+   "id": "asia/china/henan",
+   "name": "Henan",
+   "path": "asia/china/henan.map",
+   "parent": "asia/china",
+   "sizeBytes": 66060288,
+   "updated": "2026-08-13T00:11:00+00:00"
+  },
+  {
+   "id": "asia/china/hong-kong",
+   "name": "Hong-Kong",
+   "path": "asia/china/hong-kong.map",
+   "parent": "asia/china",
+   "sizeBytes": 29360128,
+   "updated": "2026-08-13T00:19:00+00:00"
+  },
+  {
+   "id": "asia/china/hubei",
+   "name": "Hubei",
+   "path": "asia/china/hubei.map",
+   "parent": "asia/china",
+   "sizeBytes": 66060288,
+   "updated": "2026-08-13T01:26:00+00:00"
+  },
+  {
+   "id": "asia/china/hunan",
+   "name": "Hunan",
+   "path": "asia/china/hunan.map",
+   "parent": "asia/china",
+   "sizeBytes": 59768832,
+   "updated": "2026-08-13T01:49:00+00:00"
+  },
+  {
+   "id": "asia/china/inner-mongolia",
+   "name": "Inner-Mongolia",
+   "path": "asia/china/inner-mongolia.map",
+   "parent": "asia/china",
+   "sizeBytes": 177209344,
+   "updated": "2026-08-13T03:04:00+00:00"
+  },
+  {
+   "id": "asia/china/jiangsu",
+   "name": "Jiangsu",
+   "path": "asia/china/jiangsu.map",
+   "parent": "asia/china",
+   "sizeBytes": 96468992,
+   "updated": "2026-08-13T03:31:00+00:00"
+  },
+  {
+   "id": "asia/china/jiangxi",
+   "name": "Jiangxi",
+   "path": "asia/china/jiangxi.map",
+   "parent": "asia/china",
+   "sizeBytes": 58720256,
+   "updated": "2026-08-13T04:59:00+00:00"
+  },
+  {
+   "id": "asia/china/jilin",
+   "name": "Jilin",
+   "path": "asia/china/jilin.map",
+   "parent": "asia/china",
+   "sizeBytes": 46137344,
+   "updated": "2026-08-13T05:23:00+00:00"
+  },
+  {
+   "id": "asia/china/liaoning",
+   "name": "Liaoning",
+   "path": "asia/china/liaoning.map",
+   "parent": "asia/china",
+   "sizeBytes": 40894464,
+   "updated": "2026-08-13T05:45:00+00:00"
+  },
+  {
+   "id": "asia/china/macau",
+   "name": "Macau",
+   "path": "asia/china/macau.map",
+   "parent": "asia/china",
+   "sizeBytes": 2411724,
+   "updated": "2026-08-13T05:47:00+00:00"
+  },
+  {
+   "id": "asia/china/ningxia",
+   "name": "Ningxia",
+   "path": "asia/china/ningxia.map",
+   "parent": "asia/china",
+   "sizeBytes": 13631488,
+   "updated": "2026-08-13T05:51:00+00:00"
+  },
+  {
+   "id": "asia/china/qinghai",
+   "name": "Qinghai",
+   "path": "asia/china/qinghai.map",
+   "parent": "asia/china",
+   "sizeBytes": 47185920,
+   "updated": "2026-08-13T06:06:00+00:00"
+  },
+  {
+   "id": "asia/china/shaanxi",
+   "name": "Shaanxi",
+   "path": "asia/china/shaanxi.map",
+   "parent": "asia/china",
+   "sizeBytes": 111149056,
+   "updated": "2026-08-13T07:31:00+00:00"
+  },
+  {
+   "id": "asia/china/shandong",
+   "name": "Shandong",
+   "path": "asia/china/shandong.map",
+   "parent": "asia/china",
+   "sizeBytes": 89128960,
+   "updated": "2026-08-13T08:03:00+00:00"
+  },
+  {
+   "id": "asia/china/shanghai",
+   "name": "Shanghai",
+   "path": "asia/china/shanghai.map",
+   "parent": "asia/china",
+   "sizeBytes": 28311552,
+   "updated": "2026-08-13T08:11:00+00:00"
+  },
+  {
+   "id": "asia/china/shanxi",
+   "name": "Shanxi",
+   "path": "asia/china/shanxi.map",
+   "parent": "asia/china",
+   "sizeBytes": 41943040,
+   "updated": "2026-08-13T08:28:00+00:00"
+  },
+  {
+   "id": "asia/china/sichuan",
+   "name": "Sichuan",
+   "path": "asia/china/sichuan.map",
+   "parent": "asia/china",
+   "sizeBytes": 128974848,
+   "updated": "2026-08-13T09:16:00+00:00"
+  },
+  {
+   "id": "asia/china/tianjin",
+   "name": "Tianjin",
+   "path": "asia/china/tianjin.map",
+   "parent": "asia/china",
+   "sizeBytes": 16777216,
+   "updated": "2026-08-13T09:22:00+00:00"
+  },
+  {
+   "id": "asia/china/tibet",
+   "name": "Tibet",
+   "path": "asia/china/tibet.map",
+   "parent": "asia/china",
+   "sizeBytes": 103809024,
+   "updated": "2026-08-13T10:12:00+00:00"
+  },
+  {
+   "id": "asia/china/xinjiang",
+   "name": "Xinjiang",
+   "path": "asia/china/xinjiang.map",
+   "parent": "asia/china",
+   "sizeBytes": 140509184,
+   "updated": "2026-08-13T10:43:00+00:00"
+  },
+  {
+   "id": "asia/china/yunnan",
+   "name": "Yunnan",
+   "path": "asia/china/yunnan.map",
+   "parent": "asia/china",
+   "sizeBytes": 102760448,
+   "updated": "2026-08-13T11:16:00+00:00"
+  },
+  {
+   "id": "asia/china/zhejiang",
+   "name": "Zhejiang",
+   "path": "asia/china/zhejiang.map",
+   "parent": "asia/china",
+   "sizeBytes": 100663296,
+   "updated": "2026-08-13T12:49:00+00:00"
+  },
+  {
+   "id": "asia/east-timor",
+   "name": "East-Timor",
+   "path": "asia/east-timor.map",
+   "parent": "asia",
+   "sizeBytes": 18874368,
+   "updated": "2026-02-26T05:49:00+00:00"
+  },
+  {
+   "id": "asia/gcc-states",
+   "name": "Gcc-States",
+   "path": "asia/gcc-states.map",
+   "parent": "asia",
+   "sizeBytes": 321912832,
+   "updated": "2026-02-26T06:47:00+00:00"
+  },
+  {
+   "id": "asia/india",
+   "name": "India",
+   "path": "asia/india.map",
+   "parent": "asia",
+   "sizeBytes": 1610612736,
+   "updated": "2026-02-26T21:30:00+00:00"
+  },
+  {
+   "id": "asia/india/central-zone",
+   "name": "Central-Zone",
+   "path": "asia/india/central-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 328204288,
+   "updated": "2026-07-19T00:42:00+00:00"
+  },
+  {
+   "id": "asia/india/eastern-zone",
+   "name": "Eastern-Zone",
+   "path": "asia/india/eastern-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 220200960,
+   "updated": "2026-07-19T04:04:00+00:00"
+  },
+  {
+   "id": "asia/india/north-eastern-zone",
+   "name": "North-Eastern-Zone",
+   "path": "asia/india/north-eastern-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 118489088,
+   "updated": "2026-07-19T05:44:00+00:00"
+  },
+  {
+   "id": "asia/india/northern-zone",
+   "name": "Northern-Zone",
+   "path": "asia/india/northern-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 214958080,
+   "updated": "2026-07-19T06:46:00+00:00"
+  },
+  {
+   "id": "asia/india/southern-zone",
+   "name": "Southern-Zone",
+   "path": "asia/india/southern-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 545259520,
+   "updated": "2026-07-19T08:20:00+00:00"
+  },
+  {
+   "id": "asia/india/western-zone",
+   "name": "Western-Zone",
+   "path": "asia/india/western-zone.map",
+   "parent": "asia/india",
+   "sizeBytes": 212860928,
+   "updated": "2026-07-19T09:38:00+00:00"
+  },
+  {
+   "id": "asia/indonesia",
+   "name": "Indonesia",
+   "path": "asia/indonesia.map",
+   "parent": "asia",
+   "sizeBytes": 1825361100,
+   "updated": "2026-02-27T14:04:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/java",
+   "name": "Java",
+   "path": "asia/indonesia/java.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 917504000,
+   "updated": "2026-07-11T15:57:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/kalimantan",
+   "name": "Kalimantan",
+   "path": "asia/indonesia/kalimantan.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 166723584,
+   "updated": "2026-07-11T16:50:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/maluku",
+   "name": "Maluku",
+   "path": "asia/indonesia/maluku.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 52428800,
+   "updated": "2026-07-11T17:09:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/nusa-tenggara",
+   "name": "Nusa-Tenggara",
+   "path": "asia/indonesia/nusa-tenggara.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 180355072,
+   "updated": "2026-07-11T17:49:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/papua",
+   "name": "Papua",
+   "path": "asia/indonesia/papua.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 58720256,
+   "updated": "2026-07-11T18:06:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/sulawesi",
+   "name": "Sulawesi",
+   "path": "asia/indonesia/sulawesi.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 179306496,
+   "updated": "2026-07-11T21:44:00+00:00"
+  },
+  {
+   "id": "asia/indonesia/sumatra",
+   "name": "Sumatra",
+   "path": "asia/indonesia/sumatra.map",
+   "parent": "asia/indonesia",
+   "sizeBytes": 309329920,
+   "updated": "2026-07-12T00:44:00+00:00"
+  },
+  {
+   "id": "asia/iran",
+   "name": "Iran",
+   "path": "asia/iran.map",
+   "parent": "asia",
+   "sizeBytes": 303038464,
+   "updated": "2026-02-27T23:40:00+00:00"
+  },
+  {
+   "id": "asia/iraq",
+   "name": "Iraq",
+   "path": "asia/iraq.map",
+   "parent": "asia",
+   "sizeBytes": 102760448,
+   "updated": "2026-02-28T00:35:00+00:00"
+  },
+  {
+   "id": "asia/israel-and-palestine",
+   "name": "Israel-And-Palestine",
+   "path": "asia/israel-and-palestine.map",
+   "parent": "asia",
+   "sizeBytes": 92274688,
+   "updated": "2026-02-28T00:51:00+00:00"
+  },
+  {
+   "id": "asia/japan",
+   "name": "Japan",
+   "path": "asia/japan.map",
+   "parent": "asia",
+   "sizeBytes": 1717986918,
+   "updated": "2024-09-06T07:54:00+00:00"
+  },
+  {
+   "id": "asia/japan/chubu",
+   "name": "Chubu",
+   "path": "asia/japan/chubu.map",
+   "parent": "asia/japan",
+   "sizeBytes": 395313152,
+   "updated": "2026-08-17T03:00:00+00:00"
+  },
+  {
+   "id": "asia/japan/chugoku",
+   "name": "Chugoku",
+   "path": "asia/japan/chugoku.map",
+   "parent": "asia/japan",
+   "sizeBytes": 171966464,
+   "updated": "2026-08-17T07:16:00+00:00"
+  },
+  {
+   "id": "asia/japan/hokkaido",
+   "name": "Hokkaido",
+   "path": "asia/japan/hokkaido.map",
+   "parent": "asia/japan",
+   "sizeBytes": 171966464,
+   "updated": "2026-08-17T20:41:00+00:00"
+  },
+  {
+   "id": "asia/japan/kansai",
+   "name": "Kansai",
+   "path": "asia/japan/kansai.map",
+   "parent": "asia/japan",
+   "sizeBytes": 294649856,
+   "updated": "2026-08-18T03:16:00+00:00"
+  },
+  {
+   "id": "asia/japan/kanto",
+   "name": "Kanto",
+   "path": "asia/japan/kanto.map",
+   "parent": "asia/japan",
+   "sizeBytes": 442499072,
+   "updated": "2026-08-18T10:18:00+00:00"
+  },
+  {
+   "id": "asia/japan/kyushu",
+   "name": "Kyushu",
+   "path": "asia/japan/kyushu.map",
+   "parent": "asia/japan",
+   "sizeBytes": 269484032,
+   "updated": "2026-08-18T22:22:00+00:00"
+  },
+  {
+   "id": "asia/japan/shikoku",
+   "name": "Shikoku",
+   "path": "asia/japan/shikoku.map",
+   "parent": "asia/japan",
+   "sizeBytes": 72351744,
+   "updated": "2026-08-19T01:42:00+00:00"
+  },
+  {
+   "id": "asia/japan/tohoku",
+   "name": "Tohoku",
+   "path": "asia/japan/tohoku.map",
+   "parent": "asia/japan",
+   "sizeBytes": 241172480,
+   "updated": "2026-08-19T05:16:00+00:00"
+  },
+  {
+   "id": "asia/jordan",
+   "name": "Jordan",
+   "path": "asia/jordan.map",
+   "parent": "asia",
+   "sizeBytes": 30408704,
+   "updated": "2026-02-28T08:16:00+00:00"
+  },
+  {
+   "id": "asia/kazakhstan",
+   "name": "Kazakhstan",
+   "path": "asia/kazakhstan.map",
+   "parent": "asia",
+   "sizeBytes": 416284672,
+   "updated": "2026-03-01T06:16:00+00:00"
+  },
+  {
+   "id": "asia/kyrgyzstan",
+   "name": "Kyrgyzstan",
+   "path": "asia/kyrgyzstan.map",
+   "parent": "asia",
+   "sizeBytes": 57671680,
+   "updated": "2026-03-01T06:31:00+00:00"
+  },
+  {
+   "id": "asia/laos",
+   "name": "Laos",
+   "path": "asia/laos.map",
+   "parent": "asia",
+   "sizeBytes": 59768832,
+   "updated": "2026-03-01T06:52:00+00:00"
+  },
+  {
+   "id": "asia/lebanon",
+   "name": "Lebanon",
+   "path": "asia/lebanon.map",
+   "parent": "asia",
+   "sizeBytes": 42991616,
+   "updated": "2026-03-01T07:00:00+00:00"
+  },
+  {
+   "id": "asia/malaysia-singapore-brunei",
+   "name": "Malaysia-Singapore-Brunei",
+   "path": "asia/malaysia-singapore-brunei.map",
+   "parent": "asia",
+   "sizeBytes": 219152384,
+   "updated": "2026-03-01T08:10:00+00:00"
+  },
+  {
+   "id": "asia/maldives",
+   "name": "Maldives",
+   "path": "asia/maldives.map",
+   "parent": "asia",
+   "sizeBytes": 6501171,
+   "updated": "2026-03-01T08:19:00+00:00"
+  },
+  {
+   "id": "asia/mongolia",
+   "name": "Mongolia",
+   "path": "asia/mongolia.map",
+   "parent": "asia",
+   "sizeBytes": 156237824,
+   "updated": "2026-03-01T08:40:00+00:00"
+  },
+  {
+   "id": "asia/myanmar",
+   "name": "Myanmar",
+   "path": "asia/myanmar.map",
+   "parent": "asia",
+   "sizeBytes": 311427072,
+   "updated": "2026-03-01T10:03:00+00:00"
+  },
+  {
+   "id": "asia/nepal",
+   "name": "Nepal",
+   "path": "asia/nepal.map",
+   "parent": "asia",
+   "sizeBytes": 392167424,
+   "updated": "2026-03-01T11:22:00+00:00"
+  },
+  {
+   "id": "asia/north-korea",
+   "name": "North-Korea",
+   "path": "asia/north-korea.map",
+   "parent": "asia",
+   "sizeBytes": 99614720,
+   "updated": "2026-03-01T11:57:00+00:00"
+  },
+  {
+   "id": "asia/pakistan",
+   "name": "Pakistan",
+   "path": "asia/pakistan.map",
+   "parent": "asia",
+   "sizeBytes": 192937984,
+   "updated": "2026-03-01T13:35:00+00:00"
+  },
+  {
+   "id": "asia/philippines",
+   "name": "Philippines",
+   "path": "asia/philippines.map",
+   "parent": "asia",
+   "sizeBytes": 570425344,
+   "updated": "2026-03-01T17:40:00+00:00"
+  },
+  {
+   "id": "asia/south-korea",
+   "name": "South-Korea",
+   "path": "asia/south-korea.map",
+   "parent": "asia",
+   "sizeBytes": 258998272,
+   "updated": "2026-03-01T19:59:00+00:00"
+  },
+  {
+   "id": "asia/sri-lanka",
+   "name": "Sri-Lanka",
+   "path": "asia/sri-lanka.map",
+   "parent": "asia",
+   "sizeBytes": 141557760,
+   "updated": "2026-03-01T21:02:00+00:00"
+  },
+  {
+   "id": "asia/syria",
+   "name": "Syria",
+   "path": "asia/syria.map",
+   "parent": "asia",
+   "sizeBytes": 83886080,
+   "updated": "2026-03-01T21:37:00+00:00"
+  },
+  {
+   "id": "asia/taiwan",
+   "name": "Taiwan",
+   "path": "asia/taiwan.map",
+   "parent": "asia",
+   "sizeBytes": 249561088,
+   "updated": "2026-03-02T00:16:00+00:00"
+  },
+  {
+   "id": "asia/tajikistan",
+   "name": "Tajikistan",
+   "path": "asia/tajikistan.map",
+   "parent": "asia",
+   "sizeBytes": 51380224,
+   "updated": "2026-03-02T00:37:00+00:00"
+  },
+  {
+   "id": "asia/thailand",
+   "name": "Thailand",
+   "path": "asia/thailand.map",
+   "parent": "asia",
+   "sizeBytes": 300941312,
+   "updated": "2026-03-02T03:22:00+00:00"
+  },
+  {
+   "id": "asia/turkmenistan",
+   "name": "Turkmenistan",
+   "path": "asia/turkmenistan.map",
+   "parent": "asia",
+   "sizeBytes": 56623104,
+   "updated": "2026-03-02T10:40:00+00:00"
+  },
+  {
+   "id": "asia/uzbekistan",
+   "name": "Uzbekistan",
+   "path": "asia/uzbekistan.map",
+   "parent": "asia",
+   "sizeBytes": 138412032,
+   "updated": "2026-03-02T11:47:00+00:00"
+  },
+  {
+   "id": "asia/vietnam",
+   "name": "Vietnam",
+   "path": "asia/vietnam.map",
+   "parent": "asia",
+   "sizeBytes": 278921216,
+   "updated": "2026-03-02T13:31:00+00:00"
+  },
+  {
+   "id": "asia/yemen",
+   "name": "Yemen",
+   "path": "asia/yemen.map",
+   "parent": "asia",
+   "sizeBytes": 61865984,
+   "updated": "2026-03-02T14:04:00+00:00"
+  },
+  {
+   "id": "australia-oceania/american-oceania-1",
+   "name": "American-Oceania-1",
+   "path": "australia-oceania/american-oceania-1.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 25165824,
+   "updated": "2025-07-31T15:58:00+00:00"
+  },
+  {
+   "id": "australia-oceania/american-oceania-2",
+   "name": "American-Oceania-2",
+   "path": "australia-oceania/american-oceania-2.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 46137344,
+   "updated": "2026-02-07T09:51:00+00:00"
+  },
+  {
+   "id": "australia-oceania/american-oceania-3",
+   "name": "American-Oceania-3",
+   "path": "australia-oceania/american-oceania-3.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 46137344,
+   "updated": "2025-07-31T16:18:00+00:00"
+  },
+  {
+   "id": "australia-oceania/australia",
+   "name": "Australia",
+   "path": "australia-oceania/australia.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 1717986918,
+   "updated": "2026-02-08T08:07:00+00:00"
+  },
+  {
+   "id": "australia-oceania/cook-islands",
+   "name": "Cook-Islands",
+   "path": "australia-oceania/cook-islands.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 34603008,
+   "updated": "2026-02-08T08:11:00+00:00"
+  },
+  {
+   "id": "australia-oceania/fiji-1",
+   "name": "Fiji-1",
+   "path": "australia-oceania/fiji-1.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 5976883,
+   "updated": "2026-02-08T08:13:00+00:00"
+  },
+  {
+   "id": "australia-oceania/fiji-2",
+   "name": "Fiji-2",
+   "path": "australia-oceania/fiji-2.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 28311552,
+   "updated": "2026-02-08T08:18:00+00:00"
+  },
+  {
+   "id": "australia-oceania/ile-de-clipperton",
+   "name": "Ile-De-Clipperton",
+   "path": "australia-oceania/ile-de-clipperton.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 442368,
+   "updated": "2026-02-08T08:18:00+00:00"
+  },
+  {
+   "id": "australia-oceania/kiribati-1",
+   "name": "Kiribati-1",
+   "path": "australia-oceania/kiribati-1.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 81920,
+   "updated": "2026-02-08T08:19:00+00:00"
+  },
+  {
+   "id": "australia-oceania/kiribati-2",
+   "name": "Kiribati-2",
+   "path": "australia-oceania/kiribati-2.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 84934656,
+   "updated": "2026-02-08T08:24:00+00:00"
+  },
+  {
+   "id": "australia-oceania/kiribati-3",
+   "name": "Kiribati-3",
+   "path": "australia-oceania/kiribati-3.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 15728640,
+   "updated": "2026-02-08T08:26:00+00:00"
+  },
+  {
+   "id": "australia-oceania/marshall-islands",
+   "name": "Marshall-Islands",
+   "path": "australia-oceania/marshall-islands.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 37748736,
+   "updated": "2026-02-08T08:29:00+00:00"
+  },
+  {
+   "id": "australia-oceania/micronesia",
+   "name": "Micronesia",
+   "path": "australia-oceania/micronesia.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 54525952,
+   "updated": "2026-02-08T08:34:00+00:00"
+  },
+  {
+   "id": "australia-oceania/nauru",
+   "name": "Nauru",
+   "path": "australia-oceania/nauru.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 4194304,
+   "updated": "2026-02-08T08:35:00+00:00"
+  },
+  {
+   "id": "australia-oceania/new-caledonia",
+   "name": "New-Caledonia",
+   "path": "australia-oceania/new-caledonia.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 40894464,
+   "updated": "2026-02-08T08:41:00+00:00"
+  },
+  {
+   "id": "australia-oceania/new-zealand-1",
+   "name": "New-Zealand-1",
+   "path": "australia-oceania/new-zealand-1.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 391118848,
+   "updated": "2026-02-08T11:26:00+00:00"
+  },
+  {
+   "id": "australia-oceania/new-zealand-2",
+   "name": "New-Zealand-2",
+   "path": "australia-oceania/new-zealand-2.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 373293056,
+   "updated": "2025-05-17T16:17:00+00:00"
+  },
+  {
+   "id": "australia-oceania/niue",
+   "name": "Niue",
+   "path": "australia-oceania/niue.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 6501171,
+   "updated": "2026-02-08T12:27:00+00:00"
+  },
+  {
+   "id": "australia-oceania/palau",
+   "name": "Palau",
+   "path": "australia-oceania/palau.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 9332326,
+   "updated": "2026-02-08T12:29:00+00:00"
+  },
+  {
+   "id": "australia-oceania/papua-new-guinea",
+   "name": "Papua-New-Guinea",
+   "path": "australia-oceania/papua-new-guinea.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 108003328,
+   "updated": "2026-02-08T12:50:00+00:00"
+  },
+  {
+   "id": "australia-oceania/pitcairn-islands",
+   "name": "Pitcairn-Islands",
+   "path": "australia-oceania/pitcairn-islands.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 23068672,
+   "updated": "2026-02-08T13:09:00+00:00"
+  },
+  {
+   "id": "australia-oceania/polynesie-francaise",
+   "name": "Polynesie-Francaise",
+   "path": "australia-oceania/polynesie-francaise.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 102760448,
+   "updated": "2026-02-08T13:19:00+00:00"
+  },
+  {
+   "id": "australia-oceania/samoa",
+   "name": "Samoa",
+   "path": "australia-oceania/samoa.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 5662310,
+   "updated": "2026-02-08T13:21:00+00:00"
+  },
+  {
+   "id": "australia-oceania/solomon-islands",
+   "name": "Solomon-Islands",
+   "path": "australia-oceania/solomon-islands.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 41943040,
+   "updated": "2026-02-08T13:27:00+00:00"
+  },
+  {
+   "id": "australia-oceania/tokelau",
+   "name": "Tokelau",
+   "path": "australia-oceania/tokelau.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 5452595,
+   "updated": "2026-02-08T13:27:00+00:00"
+  },
+  {
+   "id": "australia-oceania/tonga",
+   "name": "Tonga",
+   "path": "australia-oceania/tonga.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 14680064,
+   "updated": "2026-02-08T13:29:00+00:00"
+  },
+  {
+   "id": "australia-oceania/tuvalu-1",
+   "name": "Tuvalu-1",
+   "path": "australia-oceania/tuvalu-1.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 3565158,
+   "updated": "2026-02-08T13:30:00+00:00"
+  },
+  {
+   "id": "australia-oceania/tuvalu-2",
+   "name": "Tuvalu-2",
+   "path": "australia-oceania/tuvalu-2.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 8178892,
+   "updated": "2026-02-08T13:31:00+00:00"
+  },
+  {
+   "id": "australia-oceania/vanuatu",
+   "name": "Vanuatu",
+   "path": "australia-oceania/vanuatu.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 20971520,
+   "updated": "2026-02-08T13:35:00+00:00"
+  },
+  {
+   "id": "australia-oceania/wallis-et-futuna",
+   "name": "Wallis-Et-Futuna",
+   "path": "australia-oceania/wallis-et-futuna.map",
+   "parent": "australia-oceania",
+   "sizeBytes": 5872025,
+   "updated": "2026-02-08T13:35:00+00:00"
+  },
+  {
+   "id": "central-america/bahamas",
+   "name": "Bahamas",
+   "path": "central-america/bahamas.map",
+   "parent": "central-america",
+   "sizeBytes": 30408704,
+   "updated": "2026-07-30T13:32:00+00:00"
+  },
+  {
+   "id": "central-america/belize",
+   "name": "Belize",
+   "path": "central-america/belize.map",
+   "parent": "central-america",
+   "sizeBytes": 23068672,
+   "updated": "2026-07-30T13:42:00+00:00"
+  },
+  {
+   "id": "central-america/costa-rica",
+   "name": "Costa-Rica",
+   "path": "central-america/costa-rica.map",
+   "parent": "central-america",
+   "sizeBytes": 37748736,
+   "updated": "2026-07-30T13:56:00+00:00"
+  },
+  {
+   "id": "central-america/cuba",
+   "name": "Cuba",
+   "path": "central-america/cuba.map",
+   "parent": "central-america",
+   "sizeBytes": 65011712,
+   "updated": "2026-08-05T16:28:00+00:00"
+  },
+  {
+   "id": "central-america/el-salvador",
+   "name": "El-Salvador",
+   "path": "central-america/el-salvador.map",
+   "parent": "central-america",
+   "sizeBytes": 34603008,
+   "updated": "2026-08-05T16:36:00+00:00"
+  },
+  {
+   "id": "central-america/guatemala",
+   "name": "Guatemala",
+   "path": "central-america/guatemala.map",
+   "parent": "central-america",
+   "sizeBytes": 135266304,
+   "updated": "2026-08-05T17:11:00+00:00"
+  },
+  {
+   "id": "central-america/haiti-and-domrep",
+   "name": "Haiti-And-Domrep",
+   "path": "central-america/haiti-and-domrep.map",
+   "parent": "central-america",
+   "sizeBytes": 80740352,
+   "updated": "2026-08-05T19:17:00+00:00"
+  },
+  {
+   "id": "central-america/honduras",
+   "name": "Honduras",
+   "path": "central-america/honduras.map",
+   "parent": "central-america",
+   "sizeBytes": 79691776,
+   "updated": "2026-08-05T19:44:00+00:00"
+  },
+  {
+   "id": "central-america/jamaica",
+   "name": "Jamaica",
+   "path": "central-america/jamaica.map",
+   "parent": "central-america",
+   "sizeBytes": 38797312,
+   "updated": "2026-08-05T20:05:00+00:00"
+  },
+  {
+   "id": "central-america/nicaragua",
+   "name": "Nicaragua",
+   "path": "central-america/nicaragua.map",
+   "parent": "central-america",
+   "sizeBytes": 58720256,
+   "updated": "2026-08-05T20:41:00+00:00"
+  },
+  {
+   "id": "central-america/panama",
+   "name": "Panama",
+   "path": "central-america/panama.map",
+   "parent": "central-america",
+   "sizeBytes": 38797312,
+   "updated": "2026-08-05T21:14:00+00:00"
+  },
+  {
+   "id": "europe/albania",
+   "name": "Albania",
+   "path": "europe/albania.map",
+   "parent": "europe",
+   "sizeBytes": 44040192,
+   "updated": "2026-07-27T09:51:00+00:00"
+  },
+  {
+   "id": "europe/andorra",
+   "name": "Andorra",
+   "path": "europe/andorra.map",
+   "parent": "europe",
+   "sizeBytes": 2516582,
+   "updated": "2026-07-27T09:53:00+00:00"
+  },
+  {
+   "id": "europe/austria",
+   "name": "Austria",
+   "path": "europe/austria.map",
+   "parent": "europe",
+   "sizeBytes": 550502400,
+   "updated": "2026-07-27T11:42:00+00:00"
+  },
+  {
+   "id": "europe/azores",
+   "name": "Azores",
+   "path": "europe/azores.map",
+   "parent": "europe",
+   "sizeBytes": 24117248,
+   "updated": "2026-07-27T11:46:00+00:00"
+  },
+  {
+   "id": "europe/belarus",
+   "name": "Belarus",
+   "path": "europe/belarus.map",
+   "parent": "europe",
+   "sizeBytes": 318767104,
+   "updated": "2026-03-14T13:55:00+00:00"
+  },
+  {
+   "id": "europe/belgium",
+   "name": "Belgium",
+   "path": "europe/belgium.map",
+   "parent": "europe",
+   "sizeBytes": 515899392,
+   "updated": "2026-07-27T14:25:00+00:00"
+  },
+  {
+   "id": "europe/bosnia-herzegovina",
+   "name": "Bosnia-Herzegovina",
+   "path": "europe/bosnia-herzegovina.map",
+   "parent": "europe",
+   "sizeBytes": 157286400,
+   "updated": "2026-07-27T14:53:00+00:00"
+  },
+  {
+   "id": "europe/bulgaria",
+   "name": "Bulgaria",
+   "path": "europe/bulgaria.map",
+   "parent": "europe",
+   "sizeBytes": 149946368,
+   "updated": "2026-07-27T15:21:00+00:00"
+  },
+  {
+   "id": "europe/croatia",
+   "name": "Croatia",
+   "path": "europe/croatia.map",
+   "parent": "europe",
+   "sizeBytes": 174063616,
+   "updated": "2026-07-27T16:02:00+00:00"
+  },
+  {
+   "id": "europe/cyprus",
+   "name": "Cyprus",
+   "path": "europe/cyprus.map",
+   "parent": "europe",
+   "sizeBytes": 32505856,
+   "updated": "2026-07-27T16:09:00+00:00"
+  },
+  {
+   "id": "europe/czech-republic",
+   "name": "Czech-Republic",
+   "path": "europe/czech-republic.map",
+   "parent": "europe",
+   "sizeBytes": 601882624,
+   "updated": "2026-07-27T17:42:00+00:00"
+  },
+  {
+   "id": "europe/denmark",
+   "name": "Denmark",
+   "path": "europe/denmark.map",
+   "parent": "europe",
+   "sizeBytes": 336592896,
+   "updated": "2026-07-27T18:53:00+00:00"
+  },
+  {
+   "id": "europe/estonia",
+   "name": "Estonia",
+   "path": "europe/estonia.map",
+   "parent": "europe",
+   "sizeBytes": 108003328,
+   "updated": "2026-07-27T19:52:00+00:00"
+  },
+  {
+   "id": "europe/faroe-islands",
+   "name": "Faroe-Islands",
+   "path": "europe/faroe-islands.map",
+   "parent": "europe",
+   "sizeBytes": 8598323,
+   "updated": "2026-07-27T19:55:00+00:00"
+  },
+  {
+   "id": "europe/finland",
+   "name": "Finland",
+   "path": "europe/finland.map",
+   "parent": "europe",
+   "sizeBytes": 705691648,
+   "updated": "2026-07-29T01:26:00+00:00"
+  },
+  {
+   "id": "europe/france",
+   "name": "France",
+   "path": "europe/france.map",
+   "parent": "europe",
+   "sizeBytes": 3435973836,
+   "updated": "2026-07-30T21:02:00+00:00"
+  },
+  {
+   "id": "europe/france/alsace",
+   "name": "Alsace",
+   "path": "europe/france/alsace.map",
+   "parent": "europe/france",
+   "sizeBytes": 90177536,
+   "updated": "2026-08-13T17:06:00+00:00"
+  },
+  {
+   "id": "europe/france/aquitaine",
+   "name": "Aquitaine",
+   "path": "europe/france/aquitaine.map",
+   "parent": "europe/france",
+   "sizeBytes": 221249536,
+   "updated": "2026-08-13T18:35:00+00:00"
+  },
+  {
+   "id": "europe/france/auvergne",
+   "name": "Auvergne",
+   "path": "europe/france/auvergne.map",
+   "parent": "europe/france",
+   "sizeBytes": 118489088,
+   "updated": "2026-08-13T19:12:00+00:00"
+  },
+  {
+   "id": "europe/france/basse-normandie",
+   "name": "Basse-Normandie",
+   "path": "europe/france/basse-normandie.map",
+   "parent": "europe/france",
+   "sizeBytes": 108003328,
+   "updated": "2026-08-13T19:52:00+00:00"
+  },
+  {
+   "id": "europe/france/bourgogne",
+   "name": "Bourgogne",
+   "path": "europe/france/bourgogne.map",
+   "parent": "europe/france",
+   "sizeBytes": 157286400,
+   "updated": "2026-03-13T01:22:00+00:00"
+  },
+  {
+   "id": "europe/france/bretagne",
+   "name": "Bretagne",
+   "path": "europe/france/bretagne.map",
+   "parent": "europe/france",
+   "sizeBytes": 217055232,
+   "updated": "2026-08-13T22:55:00+00:00"
+  },
+  {
+   "id": "europe/france/centre",
+   "name": "Centre",
+   "path": "europe/france/centre.map",
+   "parent": "europe/france",
+   "sizeBytes": 183500800,
+   "updated": "2026-08-14T00:03:00+00:00"
+  },
+  {
+   "id": "europe/france/champagne-ardenne",
+   "name": "Champagne-Ardenne",
+   "path": "europe/france/champagne-ardenne.map",
+   "parent": "europe/france",
+   "sizeBytes": 82837504,
+   "updated": "2026-08-14T00:37:00+00:00"
+  },
+  {
+   "id": "europe/france/corse",
+   "name": "Corse",
+   "path": "europe/france/corse.map",
+   "parent": "europe/france",
+   "sizeBytes": 25165824,
+   "updated": "2026-08-14T01:46:00+00:00"
+  },
+  {
+   "id": "europe/france/franche-comte",
+   "name": "Franche-Comte",
+   "path": "europe/france/franche-comte.map",
+   "parent": "europe/france",
+   "sizeBytes": 92274688,
+   "updated": "2026-08-14T02:19:00+00:00"
+  },
+  {
+   "id": "europe/france/guadeloupe",
+   "name": "Guadeloupe",
+   "path": "europe/france/guadeloupe.map",
+   "parent": "europe/france",
+   "sizeBytes": 17825792,
+   "updated": "2026-08-14T02:32:00+00:00"
+  },
+  {
+   "id": "europe/france/guyane",
+   "name": "Guyane",
+   "path": "europe/france/guyane.map",
+   "parent": "europe/france",
+   "sizeBytes": 15728640,
+   "updated": "2026-08-14T03:03:00+00:00"
+  },
+  {
+   "id": "europe/france/haute-normandie",
+   "name": "Haute-Normandie",
+   "path": "europe/france/haute-normandie.map",
+   "parent": "europe/france",
+   "sizeBytes": 81788928,
+   "updated": "2026-08-14T03:39:00+00:00"
+  },
+  {
+   "id": "europe/france/ile-de-france",
+   "name": "Ile-De-France",
+   "path": "europe/france/ile-de-france.map",
+   "parent": "europe/france",
+   "sizeBytes": 208666624,
+   "updated": "2026-08-14T05:10:00+00:00"
+  },
+  {
+   "id": "europe/france/languedoc-roussillon",
+   "name": "Languedoc-Roussillon",
+   "path": "europe/france/languedoc-roussillon.map",
+   "parent": "europe/france",
+   "sizeBytes": 185597952,
+   "updated": "2026-08-14T06:35:00+00:00"
+  },
+  {
+   "id": "europe/france/limousin",
+   "name": "Limousin",
+   "path": "europe/france/limousin.map",
+   "parent": "europe/france",
+   "sizeBytes": 76546048,
+   "updated": "2026-08-14T07:10:00+00:00"
+  },
+  {
+   "id": "europe/france/lorraine",
+   "name": "Lorraine",
+   "path": "europe/france/lorraine.map",
+   "parent": "europe/france",
+   "sizeBytes": 127926272,
+   "updated": "2026-08-14T08:11:00+00:00"
+  },
+  {
+   "id": "europe/france/martinique",
+   "name": "Martinique",
+   "path": "europe/france/martinique.map",
+   "parent": "europe/france",
+   "sizeBytes": 14680064,
+   "updated": "2026-08-14T08:20:00+00:00"
+  },
+  {
+   "id": "europe/france/mayotte",
+   "name": "Mayotte",
+   "path": "europe/france/mayotte.map",
+   "parent": "europe/france",
+   "sizeBytes": 7654604,
+   "updated": "2026-08-14T08:25:00+00:00"
+  },
+  {
+   "id": "europe/france/midi-pyrenees",
+   "name": "Midi-Pyrenees",
+   "path": "europe/france/midi-pyrenees.map",
+   "parent": "europe/france",
+   "sizeBytes": 255852544,
+   "updated": "2026-03-13T14:22:00+00:00"
+  },
+  {
+   "id": "europe/france/nord-pas-de-calais",
+   "name": "Nord-Pas-De-Calais",
+   "path": "europe/france/nord-pas-de-calais.map",
+   "parent": "europe/france",
+   "sizeBytes": 166723584,
+   "updated": "2026-08-14T11:10:00+00:00"
+  },
+  {
+   "id": "europe/france/pays-de-la-loire",
+   "name": "Pays-De-La-Loire",
+   "path": "europe/france/pays-de-la-loire.map",
+   "parent": "europe/france",
+   "sizeBytes": 249561088,
+   "updated": "2026-08-14T12:51:00+00:00"
+  },
+  {
+   "id": "europe/france/picardie",
+   "name": "Picardie",
+   "path": "europe/france/picardie.map",
+   "parent": "europe/france",
+   "sizeBytes": 110100480,
+   "updated": "2026-08-14T13:27:00+00:00"
+  },
+  {
+   "id": "europe/france/poitou-charentes",
+   "name": "Poitou-Charentes",
+   "path": "europe/france/poitou-charentes.map",
+   "parent": "europe/france",
+   "sizeBytes": 154140672,
+   "updated": "2026-08-14T14:36:00+00:00"
+  },
+  {
+   "id": "europe/france/provence-alpes-cote-d-azur",
+   "name": "Provence-Alpes-Cote-D-Azur",
+   "path": "europe/france/provence-alpes-cote-d-azur.map",
+   "parent": "europe/france",
+   "sizeBytes": 242221056,
+   "updated": "2026-08-14T16:27:00+00:00"
+  },
+  {
+   "id": "europe/france/reunion",
+   "name": "Reunion",
+   "path": "europe/france/reunion.map",
+   "parent": "europe/france",
+   "sizeBytes": 22020096,
+   "updated": "2026-08-14T16:37:00+00:00"
+  },
+  {
+   "id": "europe/france/rhone-alpes",
+   "name": "Rhone-Alpes",
+   "path": "europe/france/rhone-alpes.map",
+   "parent": "europe/france",
+   "sizeBytes": 356515840,
+   "updated": "2026-08-14T19:20:00+00:00"
+  },
+  {
+   "id": "europe/georgia",
+   "name": "Georgia",
+   "path": "europe/georgia.map",
+   "parent": "europe",
+   "sizeBytes": 89128960,
+   "updated": "2026-07-30T21:24:00+00:00"
+  },
+  {
+   "id": "europe/germany",
+   "name": "Germany",
+   "path": "europe/germany.map",
+   "parent": "europe",
+   "sizeBytes": 3221225472,
+   "updated": "2026-08-01T15:07:00+00:00"
+  },
+  {
+   "id": "europe/germany/baden-wuerttemberg",
+   "name": "Baden-Wuerttemberg",
+   "path": "europe/germany/baden-wuerttemberg.map",
+   "parent": "europe/germany",
+   "sizeBytes": 418381824,
+   "updated": "2026-05-03T17:58:00+00:00"
+  },
+  {
+   "id": "europe/germany/bayern",
+   "name": "Bayern",
+   "path": "europe/germany/bayern.map",
+   "parent": "europe/germany",
+   "sizeBytes": 570425344,
+   "updated": "2026-05-03T22:22:00+00:00"
+  },
+  {
+   "id": "europe/germany/berlin",
+   "name": "Berlin",
+   "path": "europe/germany/berlin.map",
+   "parent": "europe/germany",
+   "sizeBytes": 53477376,
+   "updated": "2026-05-03T23:26:00+00:00"
+  },
+  {
+   "id": "europe/germany/brandenburg",
+   "name": "Brandenburg",
+   "path": "europe/germany/brandenburg.map",
+   "parent": "europe/germany",
+   "sizeBytes": 199229440,
+   "updated": "2026-05-04T00:46:00+00:00"
+  },
+  {
+   "id": "europe/germany/bremen",
+   "name": "Bremen",
+   "path": "europe/germany/bremen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 13631488,
+   "updated": "2026-05-04T01:01:00+00:00"
+  },
+  {
+   "id": "europe/germany/hamburg",
+   "name": "Hamburg",
+   "path": "europe/germany/hamburg.map",
+   "parent": "europe/germany",
+   "sizeBytes": 29360128,
+   "updated": "2026-05-04T01:21:00+00:00"
+  },
+  {
+   "id": "europe/germany/hessen",
+   "name": "Hessen",
+   "path": "europe/germany/hessen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 225443840,
+   "updated": "2026-05-04T03:02:00+00:00"
+  },
+  {
+   "id": "europe/germany/mecklenburg-vorpommern",
+   "name": "Mecklenburg-Vorpommern",
+   "path": "europe/germany/mecklenburg-vorpommern.map",
+   "parent": "europe/germany",
+   "sizeBytes": 99614720,
+   "updated": "2026-05-04T04:07:00+00:00"
+  },
+  {
+   "id": "europe/germany/niedersachsen",
+   "name": "Niedersachsen",
+   "path": "europe/germany/niedersachsen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 358612992,
+   "updated": "2026-05-04T08:02:00+00:00"
+  },
+  {
+   "id": "europe/germany/nordrhein-westfalen",
+   "name": "Nordrhein-Westfalen",
+   "path": "europe/germany/nordrhein-westfalen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 609222656,
+   "updated": "2026-05-04T20:12:00+00:00"
+  },
+  {
+   "id": "europe/germany/rheinland-pfalz",
+   "name": "Rheinland-Pfalz",
+   "path": "europe/germany/rheinland-pfalz.map",
+   "parent": "europe/germany",
+   "sizeBytes": 184549376,
+   "updated": "2026-05-04T21:28:00+00:00"
+  },
+  {
+   "id": "europe/germany/saarland",
+   "name": "Saarland",
+   "path": "europe/germany/saarland.map",
+   "parent": "europe/germany",
+   "sizeBytes": 35651584,
+   "updated": "2026-05-04T21:47:00+00:00"
+  },
+  {
+   "id": "europe/germany/sachsen",
+   "name": "Sachsen",
+   "path": "europe/germany/sachsen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 170917888,
+   "updated": "2026-05-04T22:36:00+00:00"
+  },
+  {
+   "id": "europe/germany/sachsen-anhalt",
+   "name": "Sachsen-Anhalt",
+   "path": "europe/germany/sachsen-anhalt.map",
+   "parent": "europe/germany",
+   "sizeBytes": 126877696,
+   "updated": "2026-05-04T23:13:00+00:00"
+  },
+  {
+   "id": "europe/germany/schleswig-holstein",
+   "name": "Schleswig-Holstein",
+   "path": "europe/germany/schleswig-holstein.map",
+   "parent": "europe/germany",
+   "sizeBytes": 113246208,
+   "updated": "2026-05-04T23:52:00+00:00"
+  },
+  {
+   "id": "europe/germany/thueringen",
+   "name": "Thueringen",
+   "path": "europe/germany/thueringen.map",
+   "parent": "europe/germany",
+   "sizeBytes": 116391936,
+   "updated": "2026-05-05T00:31:00+00:00"
+  },
+  {
+   "id": "europe/great-britain",
+   "name": "Great-Britain",
+   "path": "europe/great-britain.map",
+   "parent": "europe",
+   "sizeBytes": 1610612736,
+   "updated": "2026-08-06T20:53:00+00:00"
+  },
+  {
+   "id": "europe/greece",
+   "name": "Greece",
+   "path": "europe/greece.map",
+   "parent": "europe",
+   "sizeBytes": 266338304,
+   "updated": "2026-08-06T21:51:00+00:00"
+  },
+  {
+   "id": "europe/guernsey-jersey",
+   "name": "Guernsey-Jersey",
+   "path": "europe/guernsey-jersey.map",
+   "parent": "europe",
+   "sizeBytes": 3565158,
+   "updated": "2026-08-06T21:52:00+00:00"
+  },
+  {
+   "id": "europe/hungary",
+   "name": "Hungary",
+   "path": "europe/hungary.map",
+   "parent": "europe",
+   "sizeBytes": 267386880,
+   "updated": "2026-08-06T22:43:00+00:00"
+  },
+  {
+   "id": "europe/iceland",
+   "name": "Iceland",
+   "path": "europe/iceland.map",
+   "parent": "europe",
+   "sizeBytes": 96468992,
+   "updated": "2026-08-08T23:12:00+00:00"
+  },
+  {
+   "id": "europe/ireland-and-northern-ireland",
+   "name": "Ireland-And-Northern-Ireland",
+   "path": "europe/ireland-and-northern-ireland.map",
+   "parent": "europe",
+   "sizeBytes": 335544320,
+   "updated": "2026-08-09T18:30:00+00:00"
+  },
+  {
+   "id": "europe/isle-of-man",
+   "name": "Isle-Of-Man",
+   "path": "europe/isle-of-man.map",
+   "parent": "europe",
+   "sizeBytes": 5138022,
+   "updated": "2026-08-09T18:32:00+00:00"
+  },
+  {
+   "id": "europe/italy",
+   "name": "Italy",
+   "path": "europe/italy.map",
+   "parent": "europe",
+   "sizeBytes": 1717986918,
+   "updated": "2026-08-10T14:51:00+00:00"
+  },
+  {
+   "id": "europe/italy/centro",
+   "name": "Centro",
+   "path": "europe/italy/centro.map",
+   "parent": "europe/italy",
+   "sizeBytes": 290455552,
+   "updated": "2026-03-01T18:10:00+00:00"
+  },
+  {
+   "id": "europe/italy/isole",
+   "name": "Isole",
+   "path": "europe/italy/isole.map",
+   "parent": "europe/italy",
+   "sizeBytes": 177209344,
+   "updated": "2026-03-01T22:11:00+00:00"
+  },
+  {
+   "id": "europe/italy/nord-est",
+   "name": "Nord-Est",
+   "path": "europe/italy/nord-est.map",
+   "parent": "europe/italy",
+   "sizeBytes": 450887680,
+   "updated": "2026-03-02T07:37:00+00:00"
+  },
+  {
+   "id": "europe/italy/nord-ovest",
+   "name": "Nord-Ovest",
+   "path": "europe/italy/nord-ovest.map",
+   "parent": "europe/italy",
+   "sizeBytes": 414187520,
+   "updated": "2026-03-02T15:01:00+00:00"
+  },
+  {
+   "id": "europe/italy/sud",
+   "name": "Sud",
+   "path": "europe/italy/sud.map",
+   "parent": "europe/italy",
+   "sizeBytes": 324009984,
+   "updated": "2026-03-02T16:29:00+00:00"
+  },
+  {
+   "id": "europe/kosovo",
+   "name": "Kosovo",
+   "path": "europe/kosovo.map",
+   "parent": "europe",
+   "sizeBytes": 28311552,
+   "updated": "2026-08-10T14:56:00+00:00"
+  },
+  {
+   "id": "europe/latvia",
+   "name": "Latvia",
+   "path": "europe/latvia.map",
+   "parent": "europe",
+   "sizeBytes": 109051904,
+   "updated": "2026-08-10T15:17:00+00:00"
+  },
+  {
+   "id": "europe/liechtenstein",
+   "name": "Liechtenstein",
+   "path": "europe/liechtenstein.map",
+   "parent": "europe",
+   "sizeBytes": 2202009,
+   "updated": "2026-08-10T15:19:00+00:00"
+  },
+  {
+   "id": "europe/lithuania",
+   "name": "Lithuania",
+   "path": "europe/lithuania.map",
+   "parent": "europe",
+   "sizeBytes": 189792256,
+   "updated": "2026-08-10T15:52:00+00:00"
+  },
+  {
+   "id": "europe/luxembourg",
+   "name": "Luxembourg",
+   "path": "europe/luxembourg.map",
+   "parent": "europe",
+   "sizeBytes": 33554432,
+   "updated": "2026-08-10T15:56:00+00:00"
+  },
+  {
+   "id": "europe/macedonia",
+   "name": "Macedonia",
+   "path": "europe/macedonia.map",
+   "parent": "europe",
+   "sizeBytes": 24117248,
+   "updated": "2026-08-10T16:00:00+00:00"
+  },
+  {
+   "id": "europe/malta",
+   "name": "Malta",
+   "path": "europe/malta.map",
+   "parent": "europe",
+   "sizeBytes": 6710886,
+   "updated": "2026-08-10T16:01:00+00:00"
+  },
+  {
+   "id": "europe/moldova",
+   "name": "Moldova",
+   "path": "europe/moldova.map",
+   "parent": "europe",
+   "sizeBytes": 87031808,
+   "updated": "2026-08-10T16:12:00+00:00"
+  },
+  {
+   "id": "europe/monaco",
+   "name": "Monaco",
+   "path": "europe/monaco.map",
+   "parent": "europe",
+   "sizeBytes": 352256,
+   "updated": "2026-08-10T16:12:00+00:00"
+  },
+  {
+   "id": "europe/montenegro",
+   "name": "Montenegro",
+   "path": "europe/montenegro.map",
+   "parent": "europe",
+   "sizeBytes": 28311552,
+   "updated": "2026-08-10T16:18:00+00:00"
+  },
+  {
+   "id": "europe/netherlands",
+   "name": "Netherlands",
+   "path": "europe/netherlands.map",
+   "parent": "europe",
+   "sizeBytes": 942669824,
+   "updated": "2026-08-11T01:50:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/drenthe",
+   "name": "Drenthe",
+   "path": "europe/netherlands/drenthe.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 42991616,
+   "updated": "2026-07-18T20:00:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/flevoland",
+   "name": "Flevoland",
+   "path": "europe/netherlands/flevoland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 25165824,
+   "updated": "2026-07-18T20:26:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/friesland",
+   "name": "Friesland",
+   "path": "europe/netherlands/friesland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 65011712,
+   "updated": "2026-07-18T21:26:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/gelderland",
+   "name": "Gelderland",
+   "path": "europe/netherlands/gelderland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 125829120,
+   "updated": "2026-07-18T22:19:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/groningen",
+   "name": "Groningen",
+   "path": "europe/netherlands/groningen.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 37748736,
+   "updated": "2026-07-18T22:45:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/limburg",
+   "name": "Limburg",
+   "path": "europe/netherlands/limburg.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 66060288,
+   "updated": "2026-07-18T23:04:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/noord-brabant",
+   "name": "Noord-Brabant",
+   "path": "europe/netherlands/noord-brabant.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 141557760,
+   "updated": "2026-07-19T01:36:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/noord-holland",
+   "name": "Noord-Holland",
+   "path": "europe/netherlands/noord-holland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 128974848,
+   "updated": "2026-07-19T03:45:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/overijssel",
+   "name": "Overijssel",
+   "path": "europe/netherlands/overijssel.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 77594624,
+   "updated": "2026-07-19T04:16:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/utrecht",
+   "name": "Utrecht",
+   "path": "europe/netherlands/utrecht.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 65011712,
+   "updated": "2026-07-19T04:47:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/zeeland",
+   "name": "Zeeland",
+   "path": "europe/netherlands/zeeland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 31457280,
+   "updated": "2026-07-19T05:07:00+00:00"
+  },
+  {
+   "id": "europe/netherlands/zuid-holland",
+   "name": "Zuid-Holland",
+   "path": "europe/netherlands/zuid-holland.map",
+   "parent": "europe/netherlands",
+   "sizeBytes": 146800640,
+   "updated": "2026-07-19T06:11:00+00:00"
+  },
+  {
+   "id": "europe/norway",
+   "name": "Norway",
+   "path": "europe/norway.map",
+   "parent": "europe",
+   "sizeBytes": 1717986918,
+   "updated": "2026-08-13T20:19:00+00:00"
+  },
+  {
+   "id": "europe/poland",
+   "name": "Poland",
+   "path": "europe/poland.map",
+   "parent": "europe",
+   "sizeBytes": 1610612736,
+   "updated": "2026-03-28T02:32:00+00:00"
+  },
+  {
+   "id": "europe/portugal",
+   "name": "Portugal",
+   "path": "europe/portugal.map",
+   "parent": "europe",
+   "sizeBytes": 365953024,
+   "updated": "2026-08-15T22:52:00+00:00"
+  },
+  {
+   "id": "europe/romania",
+   "name": "Romania",
+   "path": "europe/romania.map",
+   "parent": "europe",
+   "sizeBytes": 297795584,
+   "updated": "2026-08-16T01:12:00+00:00"
+  },
+  {
+   "id": "europe/serbia",
+   "name": "Serbia",
+   "path": "europe/serbia.map",
+   "parent": "europe",
+   "sizeBytes": 200278016,
+   "updated": "2026-08-16T02:14:00+00:00"
+  },
+  {
+   "id": "europe/slovakia",
+   "name": "Slovakia",
+   "path": "europe/slovakia.map",
+   "parent": "europe",
+   "sizeBytes": 233832448,
+   "updated": "2026-08-16T03:49:00+00:00"
+  },
+  {
+   "id": "europe/slovenia",
+   "name": "Slovenia",
+   "path": "europe/slovenia.map",
+   "parent": "europe",
+   "sizeBytes": 238026752,
+   "updated": "2026-08-16T04:42:00+00:00"
+  },
+  {
+   "id": "europe/spain",
+   "name": "Spain",
+   "path": "europe/spain.map",
+   "parent": "europe",
+   "sizeBytes": 1181116006,
+   "updated": "2026-08-17T08:11:00+00:00"
+  },
+  {
+   "id": "europe/spain/andalucia",
+   "name": "Andalucia",
+   "path": "europe/spain/andalucia.map",
+   "parent": "europe/spain",
+   "sizeBytes": 175112192,
+   "updated": "2026-08-08T10:55:00+00:00"
+  },
+  {
+   "id": "europe/spain/aragon",
+   "name": "Aragon",
+   "path": "europe/spain/aragon.map",
+   "parent": "europe/spain",
+   "sizeBytes": 82837504,
+   "updated": "2026-08-08T11:16:00+00:00"
+  },
+  {
+   "id": "europe/spain/asturias",
+   "name": "Asturias",
+   "path": "europe/spain/asturias.map",
+   "parent": "europe/spain",
+   "sizeBytes": 26214400,
+   "updated": "2026-08-08T11:26:00+00:00"
+  },
+  {
+   "id": "europe/spain/cantabria",
+   "name": "Cantabria",
+   "path": "europe/spain/cantabria.map",
+   "parent": "europe/spain",
+   "sizeBytes": 26214400,
+   "updated": "2026-08-08T11:36:00+00:00"
+  },
+  {
+   "id": "europe/spain/castilla-la-mancha",
+   "name": "Castilla-La-Mancha",
+   "path": "europe/spain/castilla-la-mancha.map",
+   "parent": "europe/spain",
+   "sizeBytes": 89128960,
+   "updated": "2026-08-08T12:02:00+00:00"
+  },
+  {
+   "id": "europe/spain/castilla-y-leon",
+   "name": "Castilla-Y-Leon",
+   "path": "europe/spain/castilla-y-leon.map",
+   "parent": "europe/spain",
+   "sizeBytes": 149946368,
+   "updated": "2026-08-08T12:58:00+00:00"
+  },
+  {
+   "id": "europe/spain/cataluna",
+   "name": "Cataluna",
+   "path": "europe/spain/cataluna.map",
+   "parent": "europe/spain",
+   "sizeBytes": 207618048,
+   "updated": "2026-08-08T15:06:00+00:00"
+  },
+  {
+   "id": "europe/spain/ceuta",
+   "name": "Ceuta",
+   "path": "europe/spain/ceuta.map",
+   "parent": "europe/spain",
+   "sizeBytes": 417792,
+   "updated": "2026-08-08T15:08:00+00:00"
+  },
+  {
+   "id": "europe/spain/extremadura",
+   "name": "Extremadura",
+   "path": "europe/spain/extremadura.map",
+   "parent": "europe/spain",
+   "sizeBytes": 33554432,
+   "updated": "2026-08-08T15:27:00+00:00"
+  },
+  {
+   "id": "europe/spain/galicia",
+   "name": "Galicia",
+   "path": "europe/spain/galicia.map",
+   "parent": "europe/spain",
+   "sizeBytes": 82837504,
+   "updated": "2026-08-08T16:13:00+00:00"
+  },
+  {
+   "id": "europe/spain/islas-baleares",
+   "name": "Islas-Baleares",
+   "path": "europe/spain/islas-baleares.map",
+   "parent": "europe/spain",
+   "sizeBytes": 38797312,
+   "updated": "2026-08-08T16:30:00+00:00"
+  },
+  {
+   "id": "europe/spain/la-rioja",
+   "name": "La-Rioja",
+   "path": "europe/spain/la-rioja.map",
+   "parent": "europe/spain",
+   "sizeBytes": 10276044,
+   "updated": "2026-08-08T16:34:00+00:00"
+  },
+  {
+   "id": "europe/spain/madrid",
+   "name": "Madrid",
+   "path": "europe/spain/madrid.map",
+   "parent": "europe/spain",
+   "sizeBytes": 65011712,
+   "updated": "2026-08-08T16:54:00+00:00"
+  },
+  {
+   "id": "europe/spain/melilla",
+   "name": "Melilla",
+   "path": "europe/spain/melilla.map",
+   "parent": "europe/spain",
+   "sizeBytes": 541696,
+   "updated": "2026-08-08T16:55:00+00:00"
+  },
+  {
+   "id": "europe/spain/murcia",
+   "name": "Murcia",
+   "path": "europe/spain/murcia.map",
+   "parent": "europe/spain",
+   "sizeBytes": 28311552,
+   "updated": "2026-08-08T17:07:00+00:00"
+  },
+  {
+   "id": "europe/spain/navarra",
+   "name": "Navarra",
+   "path": "europe/spain/navarra.map",
+   "parent": "europe/spain",
+   "sizeBytes": 30408704,
+   "updated": "2026-08-08T17:20:00+00:00"
+  },
+  {
+   "id": "europe/spain/pais-vasco",
+   "name": "Pais-Vasco",
+   "path": "europe/spain/pais-vasco.map",
+   "parent": "europe/spain",
+   "sizeBytes": 54525952,
+   "updated": "2026-08-08T17:40:00+00:00"
+  },
+  {
+   "id": "europe/spain/valencia",
+   "name": "Valencia",
+   "path": "europe/spain/valencia.map",
+   "parent": "europe/spain",
+   "sizeBytes": 114294784,
+   "updated": "2026-08-08T18:34:00+00:00"
+  },
+  {
+   "id": "europe/sweden",
+   "name": "Sweden",
+   "path": "europe/sweden.map",
+   "parent": "europe",
+   "sizeBytes": 825229312,
+   "updated": "2026-08-18T13:03:00+00:00"
+  },
+  {
+   "id": "europe/switzerland",
+   "name": "Switzerland",
+   "path": "europe/switzerland.map",
+   "parent": "europe",
+   "sizeBytes": 332398592,
+   "updated": "2026-08-18T15:17:00+00:00"
+  },
+  {
+   "id": "europe/turkey",
+   "name": "Turkey",
+   "path": "europe/turkey.map",
+   "parent": "europe",
+   "sizeBytes": 607125504,
+   "updated": "2026-08-18T20:27:00+00:00"
+  },
+  {
+   "id": "europe/ukraine",
+   "name": "Ukraine",
+   "path": "europe/ukraine.map",
+   "parent": "europe",
+   "sizeBytes": 866123776,
+   "updated": "2026-08-19T04:08:00+00:00"
+  },
+  {
+   "id": "europe/united-kingdom/england",
+   "name": "England",
+   "path": "europe/united-kingdom/england.map",
+   "parent": "europe/united-kingdom",
+   "sizeBytes": 1181116006,
+   "updated": "2026-05-10T11:57:00+00:00"
+  },
+  {
+   "id": "europe/united-kingdom/scotland",
+   "name": "Scotland",
+   "path": "europe/united-kingdom/scotland.map",
+   "parent": "europe/united-kingdom",
+   "sizeBytes": 282066944,
+   "updated": "2026-05-10T16:02:00+00:00"
+  },
+  {
+   "id": "europe/united-kingdom/wales",
+   "name": "Wales",
+   "path": "europe/united-kingdom/wales.map",
+   "parent": "europe/united-kingdom",
+   "sizeBytes": 110100480,
+   "updated": "2026-05-10T17:03:00+00:00"
+  },
+  {
+   "id": "north-america/canada/alberta",
+   "name": "Alberta",
+   "path": "north-america/canada/alberta.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 316669952,
+   "updated": "2026-04-20T14:51:00+00:00"
+  },
+  {
+   "id": "north-america/canada/british-columbia",
+   "name": "British-Columbia",
+   "path": "north-america/canada/british-columbia.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 789577728,
+   "updated": "2026-04-21T09:47:00+00:00"
+  },
+  {
+   "id": "north-america/canada/manitoba",
+   "name": "Manitoba",
+   "path": "north-america/canada/manitoba.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 228589568,
+   "updated": "2026-04-21T15:42:00+00:00"
+  },
+  {
+   "id": "north-america/canada/new-brunswick",
+   "name": "New-Brunswick",
+   "path": "north-america/canada/new-brunswick.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 60817408,
+   "updated": "2026-04-21T16:11:00+00:00"
+  },
+  {
+   "id": "north-america/canada/newfoundland-and-labrador",
+   "name": "Newfoundland-And-Labrador",
+   "path": "north-america/canada/newfoundland-and-labrador.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 348127232,
+   "updated": "2026-04-23T16:29:00+00:00"
+  },
+  {
+   "id": "north-america/canada/northwest-territories",
+   "name": "Northwest-Territories",
+   "path": "north-america/canada/northwest-territories.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 770703360,
+   "updated": "2026-04-26T13:37:00+00:00"
+  },
+  {
+   "id": "north-america/canada/nova-scotia",
+   "name": "Nova-Scotia",
+   "path": "north-america/canada/nova-scotia.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 84934656,
+   "updated": "2026-04-26T14:24:00+00:00"
+  },
+  {
+   "id": "north-america/canada/nunavut",
+   "name": "Nunavut",
+   "path": "north-america/canada/nunavut.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 2147483648,
+   "updated": "2025-12-13T17:46:00+00:00"
+  },
+  {
+   "id": "north-america/canada/ontario",
+   "name": "Ontario",
+   "path": "north-america/canada/ontario.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 730857472,
+   "updated": "2025-12-17T14:46:00+00:00"
+  },
+  {
+   "id": "north-america/canada/prince-edward-island",
+   "name": "Prince-Edward-Island",
+   "path": "north-america/canada/prince-edward-island.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 11534336,
+   "updated": "2025-12-17T14:54:00+00:00"
+  },
+  {
+   "id": "north-america/canada/quebec",
+   "name": "Quebec",
+   "path": "north-america/canada/quebec.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 1019215872,
+   "updated": "2025-12-18T12:42:00+00:00"
+  },
+  {
+   "id": "north-america/canada/saskatchewan",
+   "name": "Saskatchewan",
+   "path": "north-america/canada/saskatchewan.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 142606336,
+   "updated": "2025-12-18T15:30:00+00:00"
+  },
+  {
+   "id": "north-america/canada/yukon",
+   "name": "Yukon",
+   "path": "north-america/canada/yukon.map",
+   "parent": "north-america/canada",
+   "sizeBytes": 145752064,
+   "updated": "2025-12-18T17:14:00+00:00"
+  },
+  {
+   "id": "north-america/greenland",
+   "name": "Greenland",
+   "path": "north-america/greenland.map",
+   "parent": "north-america",
+   "sizeBytes": 1610612736,
+   "updated": "2025-08-13T19:26:00+00:00"
+  },
+  {
+   "id": "north-america/mexico",
+   "name": "Mexico",
+   "path": "north-america/mexico.map",
+   "parent": "north-america",
+   "sizeBytes": 719323136,
+   "updated": "2026-06-28T11:49:00+00:00"
+  },
+  {
+   "id": "north-america/us-midwest",
+   "name": "Us-Midwest",
+   "path": "north-america/us-midwest.map",
+   "parent": "north-america",
+   "sizeBytes": 1717986918,
+   "updated": "2025-05-03T10:49:00+00:00"
+  },
+  {
+   "id": "north-america/us-northeast",
+   "name": "Us-Northeast",
+   "path": "north-america/us-northeast.map",
+   "parent": "north-america",
+   "sizeBytes": 1181116006,
+   "updated": "2025-08-18T00:11:00+00:00"
+  },
+  {
+   "id": "north-america/us-south",
+   "name": "Us-South",
+   "path": "north-america/us-south.map",
+   "parent": "north-america",
+   "sizeBytes": 3006477107,
+   "updated": "2025-02-17T22:33:00+00:00"
+  },
+  {
+   "id": "north-america/us-west",
+   "name": "Us-West",
+   "path": "north-america/us-west.map",
+   "parent": "north-america",
+   "sizeBytes": 2254857830,
+   "updated": "2025-01-23T11:10:00+00:00"
+  },
+  {
+   "id": "north-america/us/alabama",
+   "name": "Alabama",
+   "path": "north-america/us/alabama.map",
+   "parent": "north-america/us",
+   "sizeBytes": 119537664,
+   "updated": "2026-04-03T15:36:00+00:00"
+  },
+  {
+   "id": "north-america/us/alaska-1",
+   "name": "Alaska-1",
+   "path": "north-america/us/alaska-1.map",
+   "parent": "north-america/us",
+   "sizeBytes": 617611264,
+   "updated": "2026-04-04T08:06:00+00:00"
+  },
+  {
+   "id": "north-america/us/alaska-2",
+   "name": "Alaska-2",
+   "path": "north-america/us/alaska-2.map",
+   "parent": "north-america/us",
+   "sizeBytes": 605028352,
+   "updated": "2025-04-11T07:57:00+00:00"
+  },
+  {
+   "id": "north-america/us/arizona",
+   "name": "Arizona",
+   "path": "north-america/us/arizona.map",
+   "parent": "north-america/us",
+   "sizeBytes": 245366784,
+   "updated": "2026-04-04T10:59:00+00:00"
+  },
+  {
+   "id": "north-america/us/arkansas",
+   "name": "Arkansas",
+   "path": "north-america/us/arkansas.map",
+   "parent": "north-america/us",
+   "sizeBytes": 76546048,
+   "updated": "2026-04-04T11:23:00+00:00"
+  },
+  {
+   "id": "north-america/us/california",
+   "name": "California",
+   "path": "north-america/us/california.map",
+   "parent": "north-america/us",
+   "sizeBytes": 878706688,
+   "updated": "2026-04-04T20:09:00+00:00"
+  },
+  {
+   "id": "north-america/us/colorado",
+   "name": "Colorado",
+   "path": "north-america/us/colorado.map",
+   "parent": "north-america/us",
+   "sizeBytes": 265289728,
+   "updated": "2026-04-04T22:39:00+00:00"
+  },
+  {
+   "id": "north-america/us/connecticut",
+   "name": "Connecticut",
+   "path": "north-america/us/connecticut.map",
+   "parent": "north-america/us",
+   "sizeBytes": 138412032,
+   "updated": "2026-04-04T23:14:00+00:00"
+  },
+  {
+   "id": "north-america/us/delaware",
+   "name": "Delaware",
+   "path": "north-america/us/delaware.map",
+   "parent": "north-america/us",
+   "sizeBytes": 16777216,
+   "updated": "2026-04-04T23:22:00+00:00"
+  },
+  {
+   "id": "north-america/us/district-of-columbia",
+   "name": "District-Of-Columbia",
+   "path": "north-america/us/district-of-columbia.map",
+   "parent": "north-america/us",
+   "sizeBytes": 12582912,
+   "updated": "2026-04-04T23:26:00+00:00"
+  },
+  {
+   "id": "north-america/us/florida",
+   "name": "Florida",
+   "path": "north-america/us/florida.map",
+   "parent": "north-america/us",
+   "sizeBytes": 660602880,
+   "updated": "2026-04-05T02:41:00+00:00"
+  },
+  {
+   "id": "north-america/us/georgia",
+   "name": "Georgia",
+   "path": "north-america/us/georgia.map",
+   "parent": "north-america/us",
+   "sizeBytes": 260046848,
+   "updated": "2026-04-05T04:36:00+00:00"
+  },
+  {
+   "id": "north-america/us/hawaii",
+   "name": "Hawaii",
+   "path": "north-america/us/hawaii.map",
+   "parent": "north-america/us",
+   "sizeBytes": 82837504,
+   "updated": "2026-04-05T04:56:00+00:00"
+  },
+  {
+   "id": "north-america/us/idaho",
+   "name": "Idaho",
+   "path": "north-america/us/idaho.map",
+   "parent": "north-america/us",
+   "sizeBytes": 100663296,
+   "updated": "2026-04-05T05:20:00+00:00"
+  },
+  {
+   "id": "north-america/us/illinois",
+   "name": "Illinois",
+   "path": "north-america/us/illinois.map",
+   "parent": "north-america/us",
+   "sizeBytes": 276824064,
+   "updated": "2026-04-05T06:20:00+00:00"
+  },
+  {
+   "id": "north-america/us/indiana",
+   "name": "Indiana",
+   "path": "north-america/us/indiana.map",
+   "parent": "north-america/us",
+   "sizeBytes": 160432128,
+   "updated": "2026-04-05T07:05:00+00:00"
+  },
+  {
+   "id": "north-america/us/iowa",
+   "name": "Iowa",
+   "path": "north-america/us/iowa.map",
+   "parent": "north-america/us",
+   "sizeBytes": 103809024,
+   "updated": "2026-04-05T07:27:00+00:00"
+  },
+  {
+   "id": "north-america/us/kansas",
+   "name": "Kansas",
+   "path": "north-america/us/kansas.map",
+   "parent": "north-america/us",
+   "sizeBytes": 93323264,
+   "updated": "2026-04-05T07:45:00+00:00"
+  },
+  {
+   "id": "north-america/us/kentucky",
+   "name": "Kentucky",
+   "path": "north-america/us/kentucky.map",
+   "parent": "north-america/us",
+   "sizeBytes": 111149056,
+   "updated": "2026-04-05T08:05:00+00:00"
+  },
+  {
+   "id": "north-america/us/louisiana",
+   "name": "Louisiana",
+   "path": "north-america/us/louisiana.map",
+   "parent": "north-america/us",
+   "sizeBytes": 114294784,
+   "updated": "2026-04-05T08:45:00+00:00"
+  },
+  {
+   "id": "north-america/us/maine",
+   "name": "Maine",
+   "path": "north-america/us/maine.map",
+   "parent": "north-america/us",
+   "sizeBytes": 74448896,
+   "updated": "2026-04-05T09:15:00+00:00"
+  },
+  {
+   "id": "north-america/us/maryland",
+   "name": "Maryland",
+   "path": "north-america/us/maryland.map",
+   "parent": "north-america/us",
+   "sizeBytes": 160432128,
+   "updated": "2026-04-05T10:25:00+00:00"
+  },
+  {
+   "id": "north-america/us/massachusetts",
+   "name": "Massachusetts",
+   "path": "north-america/us/massachusetts.map",
+   "parent": "north-america/us",
+   "sizeBytes": 197132288,
+   "updated": "2026-04-05T11:17:00+00:00"
+  },
+  {
+   "id": "north-america/us/michigan",
+   "name": "Michigan",
+   "path": "north-america/us/michigan.map",
+   "parent": "north-america/us",
+   "sizeBytes": 264241152,
+   "updated": "2026-04-07T18:56:00+00:00"
+  },
+  {
+   "id": "north-america/us/minnesota",
+   "name": "Minnesota",
+   "path": "north-america/us/minnesota.map",
+   "parent": "north-america/us",
+   "sizeBytes": 207618048,
+   "updated": "2026-04-08T02:39:00+00:00"
+  },
+  {
+   "id": "north-america/us/mississippi",
+   "name": "Mississippi",
+   "path": "north-america/us/mississippi.map",
+   "parent": "north-america/us",
+   "sizeBytes": 63963136,
+   "updated": "2026-04-08T02:55:00+00:00"
+  },
+  {
+   "id": "north-america/us/missouri",
+   "name": "Missouri",
+   "path": "north-america/us/missouri.map",
+   "parent": "north-america/us",
+   "sizeBytes": 153092096,
+   "updated": "2026-04-08T03:54:00+00:00"
+  },
+  {
+   "id": "north-america/us/montana",
+   "name": "Montana",
+   "path": "north-america/us/montana.map",
+   "parent": "north-america/us",
+   "sizeBytes": 96468992,
+   "updated": "2026-04-08T04:16:00+00:00"
+  },
+  {
+   "id": "north-america/us/nebraska",
+   "name": "Nebraska",
+   "path": "north-america/us/nebraska.map",
+   "parent": "north-america/us",
+   "sizeBytes": 82837504,
+   "updated": "2026-04-08T04:52:00+00:00"
+  },
+  {
+   "id": "north-america/us/nevada",
+   "name": "Nevada",
+   "path": "north-america/us/nevada.map",
+   "parent": "north-america/us",
+   "sizeBytes": 104857600,
+   "updated": "2026-04-08T05:14:00+00:00"
+  },
+  {
+   "id": "north-america/us/new-hampshire",
+   "name": "New-Hampshire",
+   "path": "north-america/us/new-hampshire.map",
+   "parent": "north-america/us",
+   "sizeBytes": 51380224,
+   "updated": "2026-04-08T05:39:00+00:00"
+  },
+  {
+   "id": "north-america/us/new-jersey",
+   "name": "New-Jersey",
+   "path": "north-america/us/new-jersey.map",
+   "parent": "north-america/us",
+   "sizeBytes": 123731968,
+   "updated": "2026-04-08T06:48:00+00:00"
+  },
+  {
+   "id": "north-america/us/new-mexico",
+   "name": "New-Mexico",
+   "path": "north-america/us/new-mexico.map",
+   "parent": "north-america/us",
+   "sizeBytes": 111149056,
+   "updated": "2026-04-08T07:12:00+00:00"
+  },
+  {
+   "id": "north-america/us/new-york",
+   "name": "New-York",
+   "path": "north-america/us/new-york.map",
+   "parent": "north-america/us",
+   "sizeBytes": 371195904,
+   "updated": "2026-04-08T09:47:00+00:00"
+  },
+  {
+   "id": "north-america/us/north-carolina",
+   "name": "North-Carolina",
+   "path": "north-america/us/north-carolina.map",
+   "parent": "north-america/us",
+   "sizeBytes": 310378496,
+   "updated": "2026-04-08T11:14:00+00:00"
+  },
+  {
+   "id": "north-america/us/north-dakota",
+   "name": "North-Dakota",
+   "path": "north-america/us/north-dakota.map",
+   "parent": "north-america/us",
+   "sizeBytes": 80740352,
+   "updated": "2026-04-08T11:38:00+00:00"
+  },
+  {
+   "id": "north-america/us/ohio",
+   "name": "Ohio",
+   "path": "north-america/us/ohio.map",
+   "parent": "north-america/us",
+   "sizeBytes": 254803968,
+   "updated": "2026-04-08T13:43:00+00:00"
+  },
+  {
+   "id": "north-america/us/oklahoma",
+   "name": "Oklahoma",
+   "path": "north-america/us/oklahoma.map",
+   "parent": "north-america/us",
+   "sizeBytes": 118489088,
+   "updated": "2026-04-08T14:08:00+00:00"
+  },
+  {
+   "id": "north-america/us/oregon",
+   "name": "Oregon",
+   "path": "north-america/us/oregon.map",
+   "parent": "north-america/us",
+   "sizeBytes": 192937984,
+   "updated": "2026-04-08T14:49:00+00:00"
+  },
+  {
+   "id": "north-america/us/pennsylvania",
+   "name": "Pennsylvania",
+   "path": "north-america/us/pennsylvania.map",
+   "parent": "north-america/us",
+   "sizeBytes": 257949696,
+   "updated": "2026-04-08T16:04:00+00:00"
+  },
+  {
+   "id": "north-america/us/puerto-rico",
+   "name": "Puerto-Rico",
+   "path": "north-america/us/puerto-rico.map",
+   "parent": "north-america/us",
+   "sizeBytes": 67108864,
+   "updated": "2026-04-08T16:24:00+00:00"
+  },
+  {
+   "id": "north-america/us/rhode-island",
+   "name": "Rhode-Island",
+   "path": "north-america/us/rhode-island.map",
+   "parent": "north-america/us",
+   "sizeBytes": 34603008,
+   "updated": "2026-04-08T16:36:00+00:00"
+  },
+  {
+   "id": "north-america/us/south-carolina",
+   "name": "South-Carolina",
+   "path": "north-america/us/south-carolina.map",
+   "parent": "north-america/us",
+   "sizeBytes": 122683392,
+   "updated": "2026-04-08T17:06:00+00:00"
+  },
+  {
+   "id": "north-america/us/south-dakota",
+   "name": "South-Dakota",
+   "path": "north-america/us/south-dakota.map",
+   "parent": "north-america/us",
+   "sizeBytes": 46137344,
+   "updated": "2026-04-08T17:18:00+00:00"
+  },
+  {
+   "id": "north-america/us/tennessee",
+   "name": "Tennessee",
+   "path": "north-america/us/tennessee.map",
+   "parent": "north-america/us",
+   "sizeBytes": 140509184,
+   "updated": "2026-04-08T17:48:00+00:00"
+  },
+  {
+   "id": "north-america/us/texas",
+   "name": "Texas",
+   "path": "north-america/us/texas.map",
+   "parent": "north-america/us",
+   "sizeBytes": 575668224,
+   "updated": "2026-04-08T20:11:00+00:00"
+  },
+  {
+   "id": "north-america/us/us-virgin-islands",
+   "name": "Us-Virgin-Islands",
+   "path": "north-america/us/us-virgin-islands.map",
+   "parent": "north-america/us",
+   "sizeBytes": 3040870,
+   "updated": "2026-04-08T20:27:00+00:00"
+  },
+  {
+   "id": "north-america/us/utah",
+   "name": "Utah",
+   "path": "north-america/us/utah.map",
+   "parent": "north-america/us",
+   "sizeBytes": 124780544,
+   "updated": "2026-04-08T20:57:00+00:00"
+  },
+  {
+   "id": "north-america/us/vermont",
+   "name": "Vermont",
+   "path": "north-america/us/vermont.map",
+   "parent": "north-america/us",
+   "sizeBytes": 34603008,
+   "updated": "2026-04-08T21:07:00+00:00"
+  },
+  {
+   "id": "north-america/us/virginia",
+   "name": "Virginia",
+   "path": "north-america/us/virginia.map",
+   "parent": "north-america/us",
+   "sizeBytes": 296747008,
+   "updated": "2026-04-08T23:17:00+00:00"
+  },
+  {
+   "id": "north-america/us/washington",
+   "name": "Washington",
+   "path": "north-america/us/washington.map",
+   "parent": "north-america/us",
+   "sizeBytes": 287309824,
+   "updated": "2026-04-09T00:42:00+00:00"
+  },
+  {
+   "id": "north-america/us/west-virginia",
+   "name": "West-Virginia",
+   "path": "north-america/us/west-virginia.map",
+   "parent": "north-america/us",
+   "sizeBytes": 92274688,
+   "updated": "2026-04-09T01:05:00+00:00"
+  },
+  {
+   "id": "north-america/us/wisconsin",
+   "name": "Wisconsin",
+   "path": "north-america/us/wisconsin.map",
+   "parent": "north-america/us",
+   "sizeBytes": 229638144,
+   "updated": "2026-04-09T09:50:00+00:00"
+  },
+  {
+   "id": "north-america/us/wyoming",
+   "name": "Wyoming",
+   "path": "north-america/us/wyoming.map",
+   "parent": "north-america/us",
+   "sizeBytes": 85983232,
+   "updated": "2026-04-09T10:39:00+00:00"
+  },
+  {
+   "id": "russia/central-fed-district",
+   "name": "Central-Fed-District",
+   "path": "russia/central-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 810549248,
+   "updated": "2026-07-03T14:41:00+00:00"
+  },
+  {
+   "id": "russia/crimean-fed-district",
+   "name": "Crimean-Fed-District",
+   "path": "russia/crimean-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 35651584,
+   "updated": "2026-06-29T14:20:00+00:00"
+  },
+  {
+   "id": "russia/far-eastern-fed-district-1",
+   "name": "Far-Eastern-Fed-District-1",
+   "path": "russia/far-eastern-fed-district-1.map",
+   "parent": "russia",
+   "sizeBytes": 1610612736,
+   "updated": "2025-08-27T23:31:00+00:00"
+  },
+  {
+   "id": "russia/far-eastern-fed-district-2",
+   "name": "Far-Eastern-Fed-District-2",
+   "path": "russia/far-eastern-fed-district-2.map",
+   "parent": "russia",
+   "sizeBytes": 1610612736,
+   "updated": "2026-07-04T08:31:00+00:00"
+  },
+  {
+   "id": "russia/kaliningrad",
+   "name": "Kaliningrad",
+   "path": "russia/kaliningrad.map",
+   "parent": "russia",
+   "sizeBytes": 28311552,
+   "updated": "2026-06-29T19:54:00+00:00"
+  },
+  {
+   "id": "russia/north-caucasus-fed-district",
+   "name": "North-Caucasus-Fed-District",
+   "path": "russia/north-caucasus-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 144703488,
+   "updated": "2026-07-04T10:26:00+00:00"
+  },
+  {
+   "id": "russia/northwestern-fed-district",
+   "name": "Northwestern-Fed-District",
+   "path": "russia/northwestern-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 1395864371,
+   "updated": "2026-07-06T03:25:00+00:00"
+  },
+  {
+   "id": "russia/siberian-fed-district",
+   "name": "Siberian-Fed-District",
+   "path": "russia/siberian-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 1825361100,
+   "updated": "2026-07-06T19:00:00+00:00"
+  },
+  {
+   "id": "russia/south-fed-district",
+   "name": "South-Fed-District",
+   "path": "russia/south-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 324009984,
+   "updated": "2026-07-06T22:59:00+00:00"
+  },
+  {
+   "id": "russia/ural-fed-district",
+   "name": "Ural-Fed-District",
+   "path": "russia/ural-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 654311424,
+   "updated": "2026-07-07T04:11:00+00:00"
+  },
+  {
+   "id": "russia/volga-fed-district",
+   "name": "Volga-Fed-District",
+   "path": "russia/volga-fed-district.map",
+   "parent": "russia",
+   "sizeBytes": 829423616,
+   "updated": "2026-07-07T08:26:00+00:00"
+  },
+  {
+   "id": "south-america/argentina",
+   "name": "Argentina",
+   "path": "south-america/argentina.map",
+   "parent": "south-america",
+   "sizeBytes": 551550976,
+   "updated": "2026-05-04T09:41:00+00:00"
+  },
+  {
+   "id": "south-america/bolivia",
+   "name": "Bolivia",
+   "path": "south-america/bolivia.map",
+   "parent": "south-america",
+   "sizeBytes": 176160768,
+   "updated": "2026-05-04T12:23:00+00:00"
+  },
+  {
+   "id": "south-america/brazil",
+   "name": "Brazil",
+   "path": "south-america/brazil.map",
+   "parent": "south-america",
+   "sizeBytes": 2147483648,
+   "updated": "2026-05-05T22:55:00+00:00"
+  },
+  {
+   "id": "south-america/brazil/centro-oeste",
+   "name": "Centro-Oeste",
+   "path": "south-america/brazil/centro-oeste.map",
+   "parent": "south-america/brazil",
+   "sizeBytes": 192937984,
+   "updated": "2026-04-18T12:51:00+00:00"
+  },
+  {
+   "id": "south-america/brazil/nordeste",
+   "name": "Nordeste",
+   "path": "south-america/brazil/nordeste.map",
+   "parent": "south-america/brazil",
+   "sizeBytes": 450887680,
+   "updated": "2026-04-18T17:42:00+00:00"
+  },
+  {
+   "id": "south-america/brazil/norte",
+   "name": "Norte",
+   "path": "south-america/brazil/norte.map",
+   "parent": "south-america/brazil",
+   "sizeBytes": 290455552,
+   "updated": "2026-04-18T22:39:00+00:00"
+  },
+  {
+   "id": "south-america/brazil/sudeste",
+   "name": "Sudeste",
+   "path": "south-america/brazil/sudeste.map",
+   "parent": "south-america/brazil",
+   "sizeBytes": 787480576,
+   "updated": "2026-04-19T06:17:00+00:00"
+  },
+  {
+   "id": "south-america/brazil/sul",
+   "name": "Sul",
+   "path": "south-america/brazil/sul.map",
+   "parent": "south-america/brazil",
+   "sizeBytes": 396361728,
+   "updated": "2026-04-19T08:21:00+00:00"
+  },
+  {
+   "id": "south-america/chile",
+   "name": "Chile",
+   "path": "south-america/chile.map",
+   "parent": "south-america",
+   "sizeBytes": 693108736,
+   "updated": "2026-05-06T10:02:00+00:00"
+  },
+  {
+   "id": "south-america/colombia",
+   "name": "Colombia",
+   "path": "south-america/colombia.map",
+   "parent": "south-america",
+   "sizeBytes": 329252864,
+   "updated": "2026-05-06T11:21:00+00:00"
+  },
+  {
+   "id": "south-america/ecuador",
+   "name": "Ecuador",
+   "path": "south-america/ecuador.map",
+   "parent": "south-america",
+   "sizeBytes": 124780544,
+   "updated": "2026-05-06T11:51:00+00:00"
+  },
+  {
+   "id": "south-america/guyana",
+   "name": "Guyana",
+   "path": "south-america/guyana.map",
+   "parent": "south-america",
+   "sizeBytes": 24117248,
+   "updated": "2026-05-06T12:02:00+00:00"
+  },
+  {
+   "id": "south-america/paraguay",
+   "name": "Paraguay",
+   "path": "south-america/paraguay.map",
+   "parent": "south-america",
+   "sizeBytes": 149946368,
+   "updated": "2026-05-06T12:30:00+00:00"
+  },
+  {
+   "id": "south-america/peru",
+   "name": "Peru",
+   "path": "south-america/peru.map",
+   "parent": "south-america",
+   "sizeBytes": 281018368,
+   "updated": "2026-05-06T13:37:00+00:00"
+  },
+  {
+   "id": "south-america/suriname",
+   "name": "Suriname",
+   "path": "south-america/suriname.map",
+   "parent": "south-america",
+   "sizeBytes": 28311552,
+   "updated": "2026-05-06T14:01:00+00:00"
+  },
+  {
+   "id": "south-america/uruguay",
+   "name": "Uruguay",
+   "path": "south-america/uruguay.map",
+   "parent": "south-america",
+   "sizeBytes": 47185920,
+   "updated": "2026-05-06T14:22:00+00:00"
+  },
+  {
+   "id": "south-america/venezuela",
+   "name": "Venezuela",
+   "path": "south-america/venezuela.map",
+   "parent": "south-america",
+   "sizeBytes": 145752064,
+   "updated": "2026-05-06T22:13:00+00:00"
+  },
+  {
+   "id": "world/world",
+   "name": "World",
+   "path": "world/world.map",
+   "parent": "world",
+   "sizeBytes": 3250585,
+   "updated": "2016-02-20T20:08:00+00:00"
+  }
+ ]
+}

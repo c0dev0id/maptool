@@ -52,6 +52,39 @@ The build workflow previously had a job that signed the *debug* APK with the
 release keystore, ran without `actions/checkout`, and failed whenever the
 signing secrets were unset — which is every ordinary build.
 
+## Planned Architecture (milestone 1)
+
+**Renderer: VTM (OpenGL), not the classic Mapsforge canvas renderer.**
+Rotation, tilt and smooth zoom matter for a navigation-style app. Same `.map`
+file format either way. VTM 0.25.0 ships its native libraries as per-ABI
+classifier JARs (`vtm-android-0.25.0-natives-arm64-v8a.jar` and friends), so
+each ABI has to be declared explicitly in the build.
+
+**Routing: intent calls to the separately installed BRouter app.**
+Far less code than embedding `brouter-core`, and BRouter manages its own
+segment data. The cost is a hard dependency on the user installing BRouter.
+Routing results enter the app as an overlay layer, so an embedded engine can
+replace the intent call later without touching the layer model.
+
+**Map storage: app-private external storage (`getExternalFilesDir("maps")`).**
+No runtime permissions and no SAF plumbing, and VTM can open the file by
+path. Maps are lost on uninstall and cannot be shared with other map apps;
+a SAF-based import path can be added later for existing on-device maps.
+
+**Map catalog: generated and bundled, not scraped at runtime.**
+`download.mapsforge.org` serves a plain Apache directory index with no
+manifest, so the catalog is crawled by `tools/generate-map-catalog.py` and
+checked in as an asset. The picker then works offline and on first launch.
+Regenerate when the upstream list changes. Sizes in the catalog are
+approximate (the index shows `3.0G`); the exact length comes from
+`Content-Length` at download time.
+
+**Multiple `.map` files render at once via `MultiMapFileTileSource`.**
+Country files are huge — `europe/germany.map` is 3.0 GB against 545 MB for
+`bayern.map` — so the expected usage is downloading several sub-regions.
+Stacking them into one tile source means no manual map switching at regional
+borders.
+
 ## Core Features
 
 None implemented yet. Planned:
